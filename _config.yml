@@ -1,0 +1,5 @@
+name: Mike Mertsock
+description: "Tech blog focused on .NET and iOS"
+feedurl: http://mmertsock.github.io
+permalink: pretty
+exclude: [_scratch]

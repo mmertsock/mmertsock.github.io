@@ -1,4 +1,6 @@
 _site
 _import
+_drafts
+_scratch
 .DS_Store
 Gemfile.lock
