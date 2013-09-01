@@ -1,12 +1,30 @@
 @font-face {
-    font-family: "Fanwood Text";
-    src: url(../assets/Fanwood-Text.otf);
+    font-family: "Ovo";
+    src: url(../assets/Ovo-Regular.otf);
 }
 
 @font-face {
-    font-family: "Fanwood Text";
+    font-family: "Quicksand";
+    font-style: normal;
+    src: url(../assets/Quicksand-Light.otf);
+}
+
+@font-face {
+    font-family: "Quicksand";
     font-style: italic;
-    src: url(../assets/Fanwood-Text-Italic.otf);
+    src: url(../assets/Quicksand-LightItalic.otf);
+}
+
+@font-face {
+    font-family: "Crimson Text";
+    font-style: normal;
+    src: url(../assets/CrimsonText-Roman.ttf);
+}
+
+@font-face {
+    font-family: "Crimson Text";
+    font-style: italic;
+    src: url(../assets/CrimsonText-Italic.ttf);
 }
 
 .clearfix:before,
@@ -43,13 +61,14 @@ Alternative title font ideas:
 "Goudy Bookletter 1911"
 */
 h1, h2, h3 {
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica-Light", "Helvetica Neue", Helvetica, Calibri, Arial, sans-serif;
+    font-family: "Quicksand", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica-Light", "Helvetica Neue", Helvetica, Calibri, Arial, sans-serif;
     font-weight: 300;
+    letter-spacing: -2px;
     margin-bottom: 0.5em;
 }
 
 p, blockquote, li {
-    font: 13pt/17pt "Fanwood Text", "Linden Hill", "Palatino", serif;
+    font: 13pt/17pt "Crimson Text", "Linden Hill", "Palatino", serif;
     -webkit-hyphens: auto;
     hyphens: auto;
 }
@@ -64,7 +83,10 @@ header {
 header h1 {
     width: 100%;
     text-align: center;
-    margin: 0.83em 0;
+    margin: 0.5em 0;
+    font-family: "Ovo", "Palatino", "Georgia", sans-serif;
+    font-weight: normal;
+    letter-spacing: normal;
 }
 
 header h1 a {
