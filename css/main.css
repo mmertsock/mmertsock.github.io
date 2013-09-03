@@ -56,15 +56,12 @@ body {
     font-family: "HelveticaNeue-Medium", "Helvetica Neue Medium", "Helvetica Neue", Helvetica, Calibri, Arial, sans-serif;
 }
 
-/*
-Alternative title font ideas:
-"Goudy Bookletter 1911"
-*/
 h1, h2, h3 {
     font-family: "Quicksand", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica-Light", "Helvetica Neue", Helvetica, Calibri, Arial, sans-serif;
     font-weight: 300;
     letter-spacing: -2px;
     margin-bottom: 0.5em;
+    text-rendering: optimizelegibility;
 }
 
 p, blockquote, li {
