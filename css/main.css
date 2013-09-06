@@ -27,6 +27,24 @@
     src: url(../assets/CrimsonText-Italic.ttf);
 }
 
+@font-face {
+    font-family: "Source Code Pro";
+    font-weight: normal;
+    src: url(../assets/SourceCodePro-Regular.otf);
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    font-weight: bold;
+    src: url(../assets/SourceCodePro-Semibold.otf);
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    font-weight: lighter;
+    src: url(../assets/SourceCodePro-Light.otf);
+}
+
 .clearfix:before,
 .clearfix:after {
     content: " ";
@@ -68,6 +86,19 @@ p, blockquote, li {
     font: 13pt/17pt "Crimson Text", "Linden Hill", "Palatino", serif;
     -webkit-hyphens: auto;
     hyphens: auto;
+}
+
+code, kbd, pre, samp {
+    font-family: "Source Code Pro", "Menlo", "Consolas", monospace;
+    font-size: 10pt;
+    line-height: 14pt;
+}
+
+h1 code, h2 code, h3 code {
+    font-family: "Source Code Pro";
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: lighter;
 }
 
 header {
