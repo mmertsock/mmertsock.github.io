@@ -91,7 +91,13 @@ p, blockquote, li {
 code, kbd, pre, samp {
     font-family: "Source Code Pro", "Menlo", "Consolas", monospace;
     font-size: 10pt;
-    line-height: 14pt;
+}
+
+pre {
+    line-height: 15pt;
+    background-color: #f0f0f0;
+    border-left: 6px solid #cccccc;
+    padding: 3px 6px;
 }
 
 h1 code, h2 code, h3 code {
@@ -99,6 +105,10 @@ h1 code, h2 code, h3 code {
     font-size: inherit;
     line-height: inherit;
     font-weight: lighter;
+}
+
+.highlight {
+    background-color: transparent;
 }
 
 header {

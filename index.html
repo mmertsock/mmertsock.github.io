@@ -3,4 +3,15 @@ layout: default
 title: mmertsock.github.io
 ---
 
-<p>I’m testing out <a href="http://pages.github.com" rel="external">GitHub Pages</a> for <a href="https://github.com/mmertsock">my GitHub account</a>.</p>
+<nav class="clearfix">
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <time datetime="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date_to_string }}
+            </time>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
