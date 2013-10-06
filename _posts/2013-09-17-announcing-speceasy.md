@@ -5,6 +5,10 @@ layout: post
 
 *As an employee of [TrackAbout][], I have been helping to develop SpecEasy and prepare it for public release. A version of this announcement was originally posted September 17 on the [TrackAbout Blog][].*
 
+<div style="text-align: center;">
+    <img src="https://raw.github.com/trackabout/speceasy/master/speceasy_logo.png" style="max-width: 75%;">
+</div>
+
 TrackAbout is proud to release version 1.0 of [SpecEasy][], our open-source unit testing framework for the .NET platform. SpecEasy features a simple, fluent language for writing [BDD][] style tests. Though it’s lightweight and has few dependencies, it includes powerful features such as nested contexts, expressive test results, and auto-mocking.
 
 ## An example
