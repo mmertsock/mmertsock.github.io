@@ -65,13 +65,15 @@ input,
 select,
 textarea,
 h1 a {
-    color: #222;
+    color: #333333;
 }
 
 body {
     font-size: 13pt;
     line-height: 1.3;
     font-family: "HelveticaNeue-Medium", "Helvetica Neue Medium", "Helvetica Neue", Helvetica, Calibri, Arial, sans-serif;
+    color: #333333;
+    background-color: #fafafa;
 }
 
 h1, h2, h3 {
@@ -83,7 +85,7 @@ h1, h2, h3 {
 }
 
 p, blockquote, li {
-    font: 13pt/17pt "Crimson Text", "Linden Hill", "Palatino", serif;
+    font: 13pt/18pt "Crimson Text", "Linden Hill", "Palatino", serif;
     -webkit-hyphens: auto;
     hyphens: auto;
 }
