@@ -180,3 +180,10 @@ blockquote cite {
 blockquote cite:before {
     content: "–";
 }
+
+.post-modified {
+    font-style: italic;
+    font-size: 12pt;
+    line-height: 16pt;
+    margin-top: 2em;
+}

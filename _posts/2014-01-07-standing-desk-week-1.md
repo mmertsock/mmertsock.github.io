@@ -20,7 +20,7 @@ Peripherals:
 - Display: No external monitor, at least for now, so it will be easier to move between desks. The standing desk has a removable riser to get the notebook screen at the correct height
 - Human: programmer, working from home, starting to feel age kicking in
 
-## Observations: week 1
+## Observations: week one
 
 Day 0, 2 hours. On my first day of work with a standing desk, I spent a couple of hours standing, which felt fine, without too much fatigue. I knew I was probably doing some things wrong and did not want to develop bad habits, so I decided to start over with the 28-day plan.
 
@@ -45,6 +45,10 @@ One should not stand perfectly still; regular adjustments to position and balanc
 ## Next week
 
 I want to try standing different times of the day to see if there are preferred times to sit or stand. During seated periods, I need to fight the habit of staying in one position the whole time, with reminders to get up and move and stretch periodically. Continued focus is necessary for optimizing posture, so each standing session will start with recalling some [instructions][fatigue] for correct posture.
+
+<p class="post-modified">
+This post was <a href="https://github.com/mmertsock/mmertsock.github.io/commits/master/{{ page.path }}">modified</a> after its initial publication.
+</p>
 
 [why]: http://haacked.com/archive/2012/07/20/code-standing-up.aspx/
 [how]: http://thewirecutter.com/2012/10/how-to-stand-at-your-desk/
