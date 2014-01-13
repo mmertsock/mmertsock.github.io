@@ -5,6 +5,12 @@ layout: post
 
 After a year of procrastination, I finally have a standing desk and am committing to standing at work (or more accurately, not sitting 100% of the time). There are plenty of resources online for the [why][] and [how][] of standing, and there are plenty of [reviews][] and [how-tos][howto] for standing desks. So with this series of blog posts, I want to focus on personal experience and offer practical observations and tips as I make the transition to standing.
 
+Other posts in this series:
+
+- [Week two][]
+- Week three: in progress
+- Week four: coming up
+
 ## The plan
 
 I am following my coworker Josh Earl’s [28-day stand up and work challenge][challenge] (actually 20 work days over four weeks). This plan starts small—just 12 minutes spent standing on the first day—which I believe will allow for incremental adaptation and adjustments make it easier to focus on good habits. Once a week, I will post a blog update with observations on each day of the challenge: overall progress, what is working or not working, and plans for the next week.
@@ -57,9 +63,10 @@ This post was <a href="https://github.com/mmertsock/mmertsock.github.io/commits/
 [challenge]: http://deskhacks.com/how-to-finally-make-the-switch-to-a-standing-desk/
 [measurements]: http://www.wired.com/images_blogs/wiredscience/2012/09/mf-standing-deskb_f.jpg
 [fatigue]: http://deskhacks.com/reduce-standing-desk-fatigue/
-[yoga block]: http://www.amazon.com/Gaiam-PARENT-Yoga-Blocks/dp/B00AJFOEFS/ref=pd_sim_sg_1
+[yoga block]: http://www.gaiam.com/yoga-blocks-straps/?prefn1=type&prefv1=Block
 [day1]: http://deskhacks.com/challenge-day-1/
 [day2]: http://deskhacks.com/challenge-day-2/
 [day3]: http://deskhacks.com/challenge-day-3/
 [day4]: http://deskhacks.com/challenge-day-4/
 [day5]: http://deskhacks.com/challenge-day-5/
+[Week two]: {{ site.url }}/2014/01/14/standing-desk-week-2/
