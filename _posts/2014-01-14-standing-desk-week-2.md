@@ -3,7 +3,7 @@ title: "Standing Desk Challenge: Week Two"
 layout: post
 ---
 
-My reflections on week two of the [28-day stand up and work challenge][week 1].
+My reflections on week two of the [28-day stand up and work challenge][week 1]. As described in the post from [week one][], my goal here is not convince you to try a standing desk, or to explain the general benefits and challenges of standing at work, as others have covered such topics extensively. Instead, this series of posts is more of a journal of personal observations, successes, and challenges. Hopefully those who are trying out standing can learn some little tips, and those on the fence can get an idea of the actual experience of this transition.
 
 ## Observations: week two
 
@@ -13,13 +13,19 @@ My reflections on week two of the [28-day stand up and work challenge][week 1].
 
 [Day 8][], 96 minutes. Time goes by pretty quickly during standing periods. Long sessions don’t feel long anymore.
 
-[Day 9][], 108 minutes. Noticed a tendency to stand with my feet too close together, which hinders good hip and back posture.
+[Day 9][], 108 minutes. Noticed a tendency to stand with my feet too close together, which hinders good hip and back posture. Feet should normally be about hip width apart.
 
 [Day 10][], 120 minutes. Last week I became more aware of bad habits, discomfort, etc., while sitting. As the amount of seated time decreases, and as seated posture hopefully improves, sitting is starting to feel OK again.
 
+### Favoring multiple shorter standing sessions
+
+This week, the standing sessions are long enough to split into two shorter periods each day. This worked out well: seated time periods are even shorter and it helps ensure that I move around more often.
+
+This highlights the importance of having an adjustable desk, two fixed-height surfaces, or some other setup that makes it simple to switch modes. When it only takes a few seconds to switch, there is no barrier to move between sitting and standing as often as you want.
+
 ## Next week
 
-As the daily standing periods reach up to three hours total, it will be necessary to think about making a more regular daily routine of switching between sitting and standing.
+As the daily standing periods reach up to three hours total, it will be necessary to think about making a more regular daily routine of switching between sitting and standing. Also, I want to focus on moving around a little more while standing.
 
 [Day 6]: http://deskhacks.com/challenge-day-6/
 [Day 7]: http://deskhacks.com/challenge-day-7/
