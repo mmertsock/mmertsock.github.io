@@ -3,7 +3,7 @@ title: "Standing Desk Challenge: Week Two"
 layout: post
 ---
 
-My reflections on week two of the [28-day stand up and work challenge][week 1]. As described in the post from [week one][], my goal here is not convince you to try a standing desk, or to explain the general benefits and challenges of standing at work, as others have covered such topics extensively. Instead, this series of posts is more of a journal of personal observations, successes, and challenges. Hopefully those who are trying out standing can learn some little tips, and those on the fence can get an idea of the actual experience of this transition.
+My reflections on week two of the [28-day stand up and work challenge][challenge]. As described in the post from [week one][], my goal here is not convince you to try a standing desk, or to explain the general benefits and challenges of standing at work, as others have covered such topics extensively. Instead, this series of posts is more of a journal of personal observations, successes, and challenges. Hopefully those who are trying out standing can learn some little tips, and those on the fence can get an idea of the actual experience of this transition.
 
 ## Observations: week two
 
@@ -32,4 +32,5 @@ As the daily standing periods reach up to three hours total, it will be necessar
 [Day 8]: http://deskhacks.com/challenge-day-8/
 [Day 9]: http://deskhacks.com/challenge-day-9/
 [Day 10]: http://deskhacks.com/challenge-day-10/
-[week 1]: {{ site.url }}/2014/01/07/standing-desk-week-1/
+[challenge]: http://deskhacks.com/how-to-finally-make-the-switch-to-a-standing-desk/
+[week one]: {{ site.url }}/2014/01/07/standing-desk-week-1/
