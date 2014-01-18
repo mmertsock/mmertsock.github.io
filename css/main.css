@@ -187,3 +187,8 @@ blockquote cite:before {
     line-height: 16pt;
     margin-top: 2em;
 }
+
+.discuss iframe {
+    display: inline-block;
+    margin-bottom: -5px;
+}
