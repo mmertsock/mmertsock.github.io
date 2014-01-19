@@ -67,12 +67,20 @@
     *zoom: 1;
 }
 
+a:link, a:hover {
+    color: #0D496B;
+}
+
+a:visited, a:active {
+    color: #87105C;
+}
+
 html,
 button,
 input,
 select,
 textarea,
-h1 a {
+h1 a:link, h1 a:visited, h1 a:hover, h1 a:active {
     color: #333333;
 }
 
@@ -125,7 +133,7 @@ header {
     width: 100%;
     margin: 0;
     padding: 1.5em 0;
-    background-color: #e3ddcc;
+    background-color: #e0e4d9; /* is.gd/gYyYSy */
 }
 
 header h1 {
@@ -162,10 +170,6 @@ footer p {
     -webkit-hyphens: none;
     hyphens: none;
     letter-spacing: -1pt;
-}
-
-footer a {
-    color: #999;
 }
 
 nav li {
