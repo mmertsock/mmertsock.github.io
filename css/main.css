@@ -162,6 +162,14 @@ footer {
     color: #999;
 }
 
+footer a:link, footer a:hover {
+    color: #476B80;
+}
+
+footer a:visited, footer a:active {
+    color: #995680;
+}
+
 footer p {
     font-family: "Quicksand", "HelveticaNeue-Light", "Helvetica", sans-serif;
     font-weight: 400;
