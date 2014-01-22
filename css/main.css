@@ -193,6 +193,13 @@ article footer li {
 a.back:link, a.back:visited, a.back:hover, a.back:active {
     color: #999;
     font-size: 9pt;
+    text-decoration: none;
+}
+
+sup a {
+    padding-left: 1pt;
+    padding-right: 1pt;
+    font-size: 8pt;
 }
 
 nav li {
