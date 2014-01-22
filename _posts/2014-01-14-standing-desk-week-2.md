@@ -3,7 +3,7 @@ title: "Standing Desk Challenge: Week Two"
 layout: post
 ---
 
-My reflections on week two of the [28-day stand up and work challenge][challenge]. As described in the post from [week one][], my goal here is not convince you to try a standing desk, or to explain the general benefits and challenges of standing at work, as others have covered such topics extensively. Instead, this series of posts is more of a journal of personal observations, successes, and challenges. Hopefully those who are trying out standing can learn some little tips, and those on the fence can get an idea of the actual experience of this transition.
+My reflections on week two of the [28-day Stand Up and Work Challenge][challenge]. As described in the post from [week one][], my goal here is not convince you to try a standing desk, or to explain the general benefits and challenges of standing at work, as others have covered such topics extensively. Instead, this series of posts is more of a journal of personal observations, successes, and challenges. Hopefully those who are trying out standing can learn some little tips, and those on the fence can get an idea of the actual experience of this transition.
 
 ## Observations: week two
 
@@ -25,7 +25,11 @@ This highlights the importance of having an adjustable desk, two fixed-height su
 
 ## Next week
 
-As the daily standing periods reach up to three hours total, it will be necessary to think about making a more regular daily routine of switching between sitting and standing. Also, I want to focus on moving around a little more while standing.
+[Next week][Week three], as the daily standing periods reach up to three hours total, it will be necessary to think about making a more regular daily routine of switching between sitting and standing. Also, I want to focus on moving around a little more while standing.
+
+<p class="post-modified">
+This post was <a href="https://github.com/mmertsock/mmertsock.github.io/commits/master/{{ page.path }}">modified</a> after its initial publication.
+</p>
 
 [Day 6]: http://deskhacks.com/challenge-day-6/
 [Day 7]: http://deskhacks.com/challenge-day-7/
@@ -34,3 +38,4 @@ As the daily standing periods reach up to three hours total, it will be necessar
 [Day 10]: http://deskhacks.com/challenge-day-10/
 [challenge]: http://deskhacks.com/how-to-finally-make-the-switch-to-a-standing-desk/
 [week one]: {{ site.url }}/2014/01/07/standing-desk-week-1/
+[Week three]: {{ site.url }}/2014/01/21/standing-desk-week-3/

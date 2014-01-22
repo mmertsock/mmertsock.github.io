@@ -8,12 +8,12 @@ After a year of procrastination, I finally have a standing desk and am committin
 Other posts in this series:
 
 - [Week two][]
-- Week three: in progress
-- Week four: coming up
+- [Week three][]
+- Week four: in progress
 
 ## The plan
 
-I am following my coworker Josh Earl’s [28-day stand up and work challenge][challenge] (actually 20 work days over four weeks). This plan starts small—just 12 minutes spent standing on the first day—which I believe will allow for incremental adaptation and adjustments make it easier to focus on good habits. Once a week, I will post a blog update with observations on each day of the challenge: overall progress, what is working or not working, and plans for the next week.
+I am following my coworker Josh Earl’s [28-Day Stand Up and Work Challenge][challenge] (actually 20 work days over four weeks). This plan starts small—just 12 minutes spent standing on the first day—which I believe will allow for incremental adaptation and adjustments make it easier to focus on good habits. Once a week, I will post a blog update with observations on each day of the challenge: overall progress, what is working or not working, and plans for the next week.
 
 ## The setup
 
@@ -50,7 +50,7 @@ One should not stand perfectly still; regular adjustments to position and balanc
 
 ## Next week
 
-I want to try standing different times of the day to see if there are preferred times to sit or stand. During seated periods, I need to fight the habit of staying in one position the whole time, with reminders to get up and move and stretch periodically. Continued focus is necessary for optimizing posture, so each standing session will start with recalling some [instructions][fatigue] for correct posture.
+[Next week][Week two], I want to try standing different times of the day to see if there are preferred times to sit or stand. During seated periods, I need to fight the habit of staying in one position the whole time, with reminders to get up and move and stretch periodically. Continued focus is necessary for optimizing posture, so each standing session will start with recalling some [instructions][fatigue] for correct posture.
 
 <p class="post-modified">
 This post was <a href="https://github.com/mmertsock/mmertsock.github.io/commits/master/{{ page.path }}">modified</a> after its initial publication.
@@ -70,3 +70,4 @@ This post was <a href="https://github.com/mmertsock/mmertsock.github.io/commits/
 [day4]: http://deskhacks.com/challenge-day-4/
 [day5]: http://deskhacks.com/challenge-day-5/
 [Week two]: {{ site.url }}/2014/01/14/standing-desk-week-2/
+[Week three]: {{ site.url }}/2014/01/21/standing-desk-week-3/
