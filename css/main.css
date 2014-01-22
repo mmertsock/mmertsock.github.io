@@ -156,21 +156,21 @@ main {
     max-width: 600px;
 }
 
-footer {
+body > footer {
     margin: 1.5em 0 0.5em 0;
     text-align: center;
     color: #999;
 }
 
-footer a:link, footer a:hover {
+body > footer a:link, body > footer a:hover {
     color: #476B80;
 }
 
-footer a:visited, footer a:active {
+body > footer a:visited, body > footer a:active {
     color: #995680;
 }
 
-footer p {
+body > footer p {
     font-family: "Quicksand", "HelveticaNeue-Light", "Helvetica", sans-serif;
     font-weight: 400;
     font-size: 11pt;
@@ -178,6 +178,21 @@ footer p {
     -webkit-hyphens: none;
     hyphens: none;
     letter-spacing: -1pt;
+}
+
+article footer {
+    margin-top: 1.25em;
+    color: #999;
+}
+
+article footer li {
+    font-size: 11pt;
+    line-height: 16pt;
+}
+
+a.back:link, a.back:visited, a.back:hover, a.back:active {
+    color: #999;
+    font-size: 9pt;
 }
 
 nav li {
