@@ -204,13 +204,17 @@ sup a {
 
 nav li {
     clear: both;
-    padding-left: 7em;
+    padding: 0 3em 0 8em;
+}
+
+nav li:hover {
+    background-color: #f3f3f3;
 }
 
 nav time {
     display: block;
-    width: 6em;
-    margin: 0 0 0 -7em;
+    width: 7em;
+    margin: 0 0 0 -8em;
     float: left;
     text-align: right;
     color: #666;
