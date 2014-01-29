@@ -23,7 +23,7 @@ When using a laptop computer, a standing desk setup clearly requires an external
 
 ## Next week
 
-Next week, as the standing sessions reach a total of four hours per day, I want to set a schedule for three standing sessions daily and commit to following that schedule. In the long run, a rigid daily schedule is probably not necessary, but following one for several days may help to instill a routine.
+[Next week][], as the standing sessions reach a total of four hours per day, I want to set a schedule for three standing sessions daily and commit to following that schedule. In the long run, a rigid daily schedule is probably not necessary, but following one for several days may help to instill a routine.
 
 <footer class="footnotes">
     <ol>
@@ -43,3 +43,4 @@ Next week, as the standing sessions reach a total of four hours per day, I want 
 [Das Keyboard]: http://www.daskeyboard.com/product/model-s-ultimate/
 [week one]: {{ site.url }}/2014/01/07/standing-desk-week-1/
 [Last week]: {{ site.url }}/2014/01/14/standing-desk-week-2/
+[Next week]: {{ site.url }}/2014/01/28/standing-desk-week-4/

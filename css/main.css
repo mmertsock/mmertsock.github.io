@@ -204,11 +204,7 @@ sup a {
 
 nav li {
     clear: both;
-    padding: 0 3em 0 8em;
-}
-
-nav li:hover {
-    background-color: #f3f3f3;
+    padding-left: 8em;
 }
 
 nav time {

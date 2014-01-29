@@ -9,7 +9,7 @@ Other posts in this series:
 
 - [Week two][]
 - [Week three][]
-- Week four: in progress
+- [Week four][]
 
 ## The plan
 
@@ -71,3 +71,4 @@ This post was <a href="https://github.com/mmertsock/mmertsock.github.io/commits/
 [day5]: http://deskhacks.com/challenge-day-5/
 [Week two]: {{ site.url }}/2014/01/14/standing-desk-week-2/
 [Week three]: {{ site.url }}/2014/01/21/standing-desk-week-3/
+[Week four]: {{ site.url }}/2014/01/28/standing-desk-week-4/
