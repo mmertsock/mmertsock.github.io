@@ -3,47 +3,6 @@ title: Colophon
 layout: post
 ---
 
-<style type="text/css">
-dt {
-    font-weight: normal;
-    float: left;
-    clear: both;
-    width: 8em;
-    text-align: right;
-}
-dd {
-    float: left;
-    margin-left: 1.33em;
-    text-align: left;
-}
-dd + dd {
-    clear: left;
-    margin-left: 9.33em;
-}
-dd:last-child {
-    margin-bottom: 1em;
-}
-dl + * {
-    clear: both;
-}
-.color-samples dt, .color-samples dd {
-    line-height: 24pt;
-    padding-top: 2pt;
-}
-.color-sample {
-    display: inline-block;
-    width: 37pt;
-    height: 22pt;
-    padding: 0;
-    margin: 0 1em 0 0;
-}
-.color-sample.bordered {
-    width: 36pt;
-    height: 20pt;
-    border: 1pt solid #ccc;
-}
-</style>
-
 ## Fonts
 
 <dl>
