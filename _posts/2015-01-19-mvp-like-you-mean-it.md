@@ -3,7 +3,7 @@ title: MVP Like You Mean It
 layout: post
 ---
 
-[Minimum viable product](mvp-def) (MVP) is often used in agile development to describe the first major milestone of new software projects. Both at my day job and in my personal projects, we try our best to realize this ideal of shipping a usable product to key stakeholders as soon as possible. But how often do we *really* accomplish this?
+[Minimum viable product][mvp-def] (MVP) is often used in agile development to describe the first major milestone of new software projects. Both at my day job and in my personal projects, we try our best to realize this ideal of shipping a usable product to key stakeholders as soon as possible. But how often do we *really* accomplish this?
 
 MVP can be a challenge to realize with any type of project. At one end of the spectrum, it is tough to find a reasonably small set of core functionality in an enterprise focused application: there are entrenched, complex workflows and business rules to replicate, multiple customers with disparate use cases, and the final vision can be intimidating in its scale. At the other end of the spectrum, when I work alone on some idea for a tool or app, the creative blank slate and lack of external constraints and deadlines can make it hard to find a clear direction and get initial traction: I need to construct everything from scratch, including a vision, market, and audience.
 
