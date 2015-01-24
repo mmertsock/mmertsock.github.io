@@ -110,6 +110,8 @@ p, blockquote, li, dt, dd {
 code, kbd, pre, samp {
     font-family: "Source Code Pro", "Menlo", "Consolas", monospace;
     font-size: 11pt;
+    -webkit-hyphens: none;
+    hyphens: none;
 }
 
 pre {
