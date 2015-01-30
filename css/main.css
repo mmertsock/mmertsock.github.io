@@ -114,6 +114,11 @@ code, kbd, pre, samp {
     hyphens: none;
 }
 
+.nohyphen {
+    -webkit-hyphens: none;
+    hyphens: none;
+}
+
 pre {
     line-height: 17pt;
     background-color: #f0f0f0; /* TODO */
@@ -213,6 +218,8 @@ sup a {
 nav li {
     clear: both;
     padding-left: 8em;
+    -webkit-hyphens: none;
+    hyphens: none;
 }
 
 nav time {
