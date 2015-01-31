@@ -231,6 +231,30 @@ nav time {
     color: #81918F;
 }
 
+@media only screen and (max-device-width: 500px) {
+    header {
+        padding: 0.5em 0;
+    }
+    main {
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+    }
+    nav li {
+        padding-left: 90px;
+        margin: 0.5em 0;
+    }
+    nav time {
+        margin-top: 1.5px;
+        margin-left: -96px;
+        width: 88px;
+        font-size: 80%;
+        font-style: italic;
+    }
+    nav ul {
+        padding-left: 0;
+    }
+}
+
 blockquote cite {
     display: block;
     font-style: italic;
