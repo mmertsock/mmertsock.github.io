@@ -1,5 +1,5 @@
-name: mmertsock.github.io
+name: "Running|Code"
 description: "Tech blog focused on .NET and iOS"
-feedurl: http://mmertsock.github.io
+feedurl: http://www.runningcode.net
 permalink: pretty
 exclude: [_scratch]
