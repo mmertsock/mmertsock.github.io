@@ -22,7 +22,7 @@ An email series from my former colleague [John Sonmez][simpleprogrammer] called 
 So if you are a programmer interested in running and fitness, or a runner geek, or find any of my [existing posts][] interesting: subscribe via [RSS][] or follow me on [Twitter][] (or even [GitHub][]), and we’ll see how it goes.
 
 [no activity]: https://github.com/mmertsock/mmertsock.github.io/graphs/contributors?from=2013-04-07&to=2015-01-19&type=c
-[simpleprogrammer]: http://simpleprogrammer.com
+[simpleprogrammer]: http://simpleprogrammer.com/about-me/
 [blog-course]: http://devcareerboost.com/blog-course/
 [Twitter]: https://twitter.com/mmertsock
 [GitHub]: https://github.com/mmertsock/mmertsock.github.io
