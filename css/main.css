@@ -228,6 +228,18 @@ body > footer p {
     content: " »";
 }
 
+body.home h2 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+body.home h2:after {
+    content: " —";
+}
+body.home h2:before {
+    content: "— ";
+}
+
 article footer {
     margin-top: 1.25em;
     color: #81918F;

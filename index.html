@@ -1,17 +1,39 @@
 ---
 layout: default
-title: Running|Code
+title: "Running|Code"
+body_class: home
 ---
 
-<nav class="clearfix">
-    <ul>
-        {% for post in site.posts %}
-        <li>
-            <time datetime="{{ post.date | date_to_xmlschema }}">
-                {{ post.date | date_to_string }}
-            </time>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
-</nav>
+{% for post in site.posts limit:1 %}
+<section>
+    <h2>Latest Post</h2>
+    <article class="latest">
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p class="excerpt">
+        {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+        <a href="{{ post.url }}" class="more">Read more</a>
+        </p>
+    </article>
+</section>
+{% endfor %}
+
+<section>
+    <h2>Links</h2>
+    {% include sitelinks.html %}
+</section>
+
+<section>
+    <h2>Archive</h2>
+    <nav class="clearfix archive">
+        <ul>
+            {% for post in site.posts %}
+            <li>
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                    {{ post.date | date_to_string }}
+                </time>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
+</section>
