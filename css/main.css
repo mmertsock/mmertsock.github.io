@@ -220,6 +220,14 @@ body > footer p {
     max-width: 90%;
 }
 
+.excerpt .more {
+    /* display: block; */
+    font-style: italic;
+}
+.excerpt .more:after {
+    content: " »";
+}
+
 article footer {
     margin-top: 1.25em;
     color: #81918F;
@@ -246,20 +254,33 @@ sup a {
     font-size: 9pt;
 }
 
-nav li {
+nav.archive li {
     clear: both;
     padding-left: 8em;
     -webkit-hyphens: none;
     hyphens: none;
 }
 
-nav time {
+nav.archive time {
     display: block;
     width: 7em;
     margin: 0 0 0 -8em;
     float: left;
     text-align: right;
     color: #81918F;
+}
+
+nav.links ul {
+    text-align: center;
+    padding: 0;
+}
+nav.links li {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+nav.links li + li:before {
+    content: " • ";
 }
 
 @media only screen and (max-device-width: 500px) {
@@ -273,18 +294,18 @@ nav time {
         padding-top: 0.5em;
         padding-bottom: 0.5em;
     }
-    nav li {
+    nav.archive li {
         padding-left: 90px;
         margin: 0.5em 0;
     }
-    nav time {
+    nav.archive time {
         margin-top: 1.5px;
         margin-left: -96px;
         width: 88px;
         font-size: 80%;
         font-style: italic;
     }
-    nav ul {
+    nav.archive ul {
         padding-left: 0;
     }
 }
