@@ -220,10 +220,18 @@ body > footer p {
     max-width: 90%;
 }
 
+.latest h3 {
+    margin-bottom: 0.3em;
+}
+
+.latest .excerpt {
+    margin-top: 0;
+}
+
 .excerpt .more {
-    /* display: block; */
     font-style: italic;
 }
+
 .excerpt .more:after {
     content: " »";
 }
