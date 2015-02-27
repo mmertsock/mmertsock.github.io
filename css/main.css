@@ -295,6 +295,20 @@ nav.links li + li:before {
     content: " • ";
 }
 
+.cc-notice {
+    display: block;
+    text-align: center;
+}
+.cc-notice a {
+    display: inline-block;
+    background-image: url(../assets/cc.svg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 1em 1em;
+    padding-left: 1.5em;
+    min-height: 1em;
+}
+
 @media only screen and (max-device-width: 500px) {
     header {
         padding: 0.5em 0;
