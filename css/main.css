@@ -150,7 +150,7 @@ header h1 {
     margin: 0.5em 0;
     font-family: "Ovo", "Palatino", "Georgia", sans-serif;
     font-weight: normal;
-    letter-spacing: normal;
+    letter-spacing: 1pt;
 }
 
 h1 a {
