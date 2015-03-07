@@ -1,7 +1,14 @@
 ---
 title: Colophon
 layout: post
+no_discuss: true
 ---
+
+## About this blog
+
+I’m Mike Mertsock, a .NET and iOS software engineer and trail/ultra runner. I think about code when I run and think about the trails when I code. You may be interested in following this blog if you are a runner or a programmer, or especially if you are both.
+
+<p><a href="{{ site.url }}/2015/03/09/finding-direction/" class="more">About this blog’s topics</a></p>
 
 ## Fonts
 

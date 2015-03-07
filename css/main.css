@@ -228,11 +228,11 @@ body > footer p {
     margin-top: 0;
 }
 
-.excerpt .more {
+.more {
     font-style: italic;
 }
 
-.excerpt .more:after {
+.more:after {
     content: " »";
 }
 
