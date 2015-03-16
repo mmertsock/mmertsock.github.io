@@ -1,5 +1,5 @@
 name: "Running|Code"
-description: "Tech blog focused on .NET and iOS"
+description: "About software development and trail running."
 feedurl: http://www.runningcode.net
 permalink: pretty
 exclude: [_scratch]
