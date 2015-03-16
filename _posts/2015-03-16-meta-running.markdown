@@ -1,5 +1,5 @@
 ---
-title: "Meta Running?"
+title: "Meta-Running?"
 layout: post
 ---
 
