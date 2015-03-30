@@ -1,6 +1,7 @@
 ---
 title: My First Week With a Standing Desk
 layout: post
+show_modified_notice: true
 ---
 
 After a year of procrastination, I finally have a standing desk and am committing to standing at work (or more accurately, not sitting 100% of the time). There are plenty of resources online for the [why][] and [how][] of standing, and there are plenty of [reviews][] and [how-tos][howto] for standing desks. So with this series of blog posts, I want to focus on personal experience and offer practical observations and tips as I make the transition to standing.
@@ -51,10 +52,6 @@ One should not stand perfectly still; regular adjustments to position and balanc
 ## Next week
 
 [Next week][Week two], I want to try standing different times of the day to see if there are preferred times to sit or stand. During seated periods, I need to fight the habit of staying in one position the whole time, with reminders to get up and move and stretch periodically. Continued focus is necessary for optimizing posture, so each standing session will start with recalling some [instructions][fatigue] for correct posture.
-
-<p class="post-modified">
-This post was <a href="https://github.com/mmertsock/mmertsock.github.io/commits/master/{{ page.path }}">modified</a> after its initial publication.
-</p>
 
 [why]: http://haacked.com/archive/2012/07/20/code-standing-up.aspx/
 [how]: http://thewirecutter.com/2012/10/how-to-stand-at-your-desk/

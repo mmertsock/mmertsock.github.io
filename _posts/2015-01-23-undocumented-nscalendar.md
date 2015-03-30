@@ -1,6 +1,7 @@
 ---
 title: Undocumented NSCalendar Methods
 layout: post
+show_modified_notice: true
 ---
 
 While working on an iOS app, I found myself writing some NSCalendar extension methods such as `beginningOfDay(relativeToDate:)`, thinking that the NSCalendar class was a little lacking. Then I stumbled upon some undocumented NSCalendar methods that accomplish exactly what I was looking for.
@@ -10,10 +11,6 @@ These methods are not yet mentioned in the latest [iOS][NSCalendar-iOS] and [OS 
 Before finding these new APIs, I had finished writing my own version of `startOfDayForDate` using TDD. I removed my own extension methods and updated the app to use the builtin methods, but I kept the unit tests that were already written since they function as some nice documentation. I published these unit tests as a [Gist][] in case they prove useful to others.
 
 *Update:* [NSHipster][] published an in-depth article about all of the recent NSCalendar API additions.
-
-<p class="post-modified">
-This post was <a href="https://github.com/mmertsock/mmertsock.github.io/commits/master/{{ page.path }}">modified</a> after its initial publication.
-</p>
 
 [NSCalendar-iOS]: https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/Classes/NSCalendar_Class/
 [NSCalendar-OSX]: https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSCalendar_Class/
