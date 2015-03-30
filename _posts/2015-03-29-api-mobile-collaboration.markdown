@@ -1,6 +1,7 @@
 ---
 title: "On Writing APIs: Collaborating Effectively With Your Mobile Team"
 layout: post
+show_modified_notice: true
 excerpt: "API-driven mobile app development requires more than good engineers and the latest technology. Whether your organization is a startup, or an established company expanding into the mobile space, you may be creating the app and API in parallel. The mobile and API teams will need to collaborate effectively in order to launch a successful product. In fact, I would say that communication and teamwork can be more important than the choice of server-side and client-side technologies."
 ---
 
@@ -26,7 +27,9 @@ An API interface should speak the language of the API consumer, *not* the underl
 
 ### Solve business needs rather than technical requirements to achieve ROI with reusable APIs
 
-In addition to allowing the interface to be dictated by the server database, another API design smell is directly modeling the internal structure of the mobile app. This will lead down the slippery slope of mobile app changes requiring versioning the API, and all the complexity that implies. Instead, API endpoints should describe business objects and operations, and parameters and data types should further reflect the business language for specific use cases. This allows the API to potentially be usable by a variety of clients (e.g. your website or third party integrations), and can force better and more maintainable implementations on both the client– and server-side. Note that coordinating focus on higher level business needs requires the above practices of shared vision and daily team interaction.
+In addition to allowing the interface to be dictated by the server database, another API design smell is directly modeling the internal structure of the mobile app. This will lead down the slippery slope of mobile app changes requiring versioning the API, and all the complexity that implies.
+
+Instead, API endpoints should describe business objects and operations, and parameters and data types should further reflect the business language for specific use cases. This allows the API to potentially be usable by a variety of clients (e.g. your website or third party integrations), and can force better and more maintainable implementations on both the client– and server-side. Note that coordinating focus on higher level business needs requires the above practices of shared vision and daily team interaction.
 
 ### Implement both the client and server incrementally
 
