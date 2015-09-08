@@ -325,7 +325,7 @@ nav.links li + li:before {
 }
 
 article .figure {
-    max-width: 95%;
+    max-width: 570px;
     margin: 1em auto;
     font-size: 85%;
     font-style: italic;
@@ -340,7 +340,7 @@ article .figure > a:first-child {
 
 article .figure img {
     border-style: none;
-    max-width: 100%;
+    max-width: 570px;
 }
 
 @media only screen and (max-device-width: 500px) {
