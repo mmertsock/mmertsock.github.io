@@ -368,6 +368,14 @@ article .figure img {
     nav.archive ul {
         padding-left: 0;
     }
+
+    article .figure {
+        max-width: 95%;
+    }
+
+    article .figure img {
+        max-width: 100%;
+    }
 }
 
 blockquote cite {
