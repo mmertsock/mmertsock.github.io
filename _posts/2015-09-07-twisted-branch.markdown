@@ -82,7 +82,7 @@ I'm still not certain what exactly broke me down, some combination of factors fo
 
 ## AS 5 to 6 (Patch Road), ~6.3 mi/35.6 total: a long recovery
 
-Italy Turnpike was all orange, an unofficial [\#TrailsRoc][TrailsRoc] aid station full of experienced runners. This was fortunate placement: the race had got serious and the heat was taking its toll on all of us, and this crew knew how to take care of us. I spent a long time at this aid station trying to cool off, rehydrate, and get positive. I was introduced to the wonders of pickle juice. Dave yelled at me to get in the shade as I staggered around the tables; after the race he bluntly informed me that I was quite a mess at this aid station.
+Italy Turnpike was all orange, an unofficial [\#TrailsRoc][TrailsRoc] aid station full of experienced runners. This was fortunate placement: the race had got serious and the heat was taking its toll on all of us, and this crew knew how to take care of us. I spent a long time at this aid station trying to cool off, rehydrate, and get positive. I was introduced to the wonders of pickle juice. Crew and volunteers corralled me into the shade as I staggered around the tables. After the race Valerie informed me that I was a complete mess at this aid station.
 
 After more than 15 minutes at the aid station, I ventured back out to the trail and got back to work. Hydration and staying cool was now the primary focus. I saw Ron taking photos again. Each time he saw me and asked how I was doing, the answer grew less positive. It was pretty bleak this time.
 
