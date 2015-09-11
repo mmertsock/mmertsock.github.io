@@ -6,6 +6,8 @@ show_modified_notice: true
 
 *This is a very long story. But I don't really know how to condense it. You probably want to skim the first couple of sections and then skip to the [end](#final-thoughts).*
 
+> *Update:* several friends with whom I shared the day have offered their perspectives on the race: [Chris][], [Dan][], [Jason][], [Jeff][], [Laura][], [Matt][], [Rob][]. Every one of them showed incredible strength and spirit as they fought challenges that I can barely imagine, or executed an amazing race performance (actually they all did both).
+
 On August 29, 2015, myself and a bunch of friends had the privilege of running (or crewing/pacing/volunteering/photographing) the inaugural [Twisted Branch 100K trail race][TB100K], a point-to-point ultramarathon on the rugged trails of the Finger Lakes region in upstate New York.
 
 My story is similar to many others: I signed up January 1 and trained all year for this race. My first 100K, and fourth ultra. My first ultra was less than a year ago. This was *the goal race*. A lot was on the line on race day, but everything leading up to it was just as important. To quote a pre-race Facebook post:
@@ -174,7 +176,7 @@ This was a difficult, sometimes brutal course: about 64 miles, nearly all trail,
 
 There were some mistakes for sure, and some things I want to improve for next time: primarily I want to figure out the 30 minutes spent at Italy Turnpike and Bud Valley aid stations: was it really necessary? Could it have been avoided? One clear lesson is the importance of cooling one's core. Otherwise, I'm happier with this than with any previous ultra.
 
-Scott Magee, the race director, devoted years of his life to making this race a reality. He put together a nearly flawless event, and this was the first year of the race and his first ever (!) time as RD. He won over the Finger Lakes Trail Conference and countless landowners, got the local communities excited about the event, and navigated a lot of red tape. He was even out on the trail a week before the race, literally building the last mile of the course so we didn't have to finish on roads. This is a world class race and I hope it gets the attention it deserves in the coming years.
+[Scott Magee][], the race director, devoted years of his life to making this race a reality. He put together a nearly flawless event, and this was the first year of the race and his first ever (!) time as RD. He won over the Finger Lakes Trail Conference and countless landowners, got the local communities excited about the event, and navigated a lot of red tape. He was even out on the trail a week before the race, literally building the last mile of the course so we didn't have to finish on roads. This is a world class race and I hope it gets the attention it deserves in the coming years.
 
 The volunteers (almost as many volunteers as racers) and aid stations were all excellent. It was great to see a lot of friends and “running family” out there. And of course, a thousand thanks to Valerie, who put up with months of training and ultra talk, and had a very long day crewing us. Her help was critical throughout the day. When I wasn't feeling great and couldn't think straight, she was there and knew exactly what to do.
 
@@ -195,6 +197,16 @@ The volunteers (almost as many volunteers as racers) and aid stations were all e
 [MTD]: https://www.strava.com/activities/301354951
 [OSTR]: https://www.strava.com/activities/315125540
 [FL50s]: https://www.strava.com/activities/339525772
+
+[Chris]: http://www.christopherobrien.net/blog/twisted-branch-100k-2015
+[Dan]: https://dlopata.wordpress.com/2015/09/10/the-usual-suspects-old-skool/
+[Jason]: http://liveagoodlife.postach.io/post/twisted-branch-2015-a-pacer-volunteer-ultra-loiterer-s-perspective
+[Jeff]: https://hahaitsjeff.wordpress.com/2015/09/08/no-oh-no-i-cant-be-done-yet/
+[Laura]: https://onbelaydesigns.wordpress.com/2015/09/06/twisted-branch-100k-2015/
+[Matt]: https://pequalsmv.wordpress.com/2015/09/10/i-literally-shaved-my-leg-for-this-race-a-twisted-branch-100k-race-report/
+[Rob]: https://gooseadventureracing.wordpress.com/2015/09/09/2/
+[Scott Magee]: http://www.runninginsideoutpodcast.com/podcast/001-10th-overall-female
+
 [Ascend Collective]: http://www.theascendcollective.com
 [TrailsRoc]: http://www.trailsroc.org
 [corn]: https://youtu.be/pU3hZPN6qYc
