@@ -80,10 +80,10 @@ And most important, the best crew, driver, and voice of reason and encouragement
 
 <div class="figure">
     <img src="{{ site.url }}/assets/retro2015/selfie.jpg">
-    Anniversary on the trails at Ithaca.
+    Valerie’s birthday on the trails at Ithaca.
 </div>
 
-## Next year
+## Next year’s goals
 
 - Help TrailsRoc have another big year
 - Spring ultramarathon: [Cayuga Trails][CT50] 50 mile. Pretty much everybody I know is making this a spring goal race next year, and everyone else will be there crewing, volunteering, or taking photos
