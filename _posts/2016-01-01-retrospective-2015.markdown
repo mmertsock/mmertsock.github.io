@@ -7,7 +7,7 @@ layout: post
     <img src="{{ site.url }}/assets/retro2015/ihead.jpg">
 </div>
 
-Looking back on 2015, most of what I have to say is about running, because that was pretty much the only thing I did all year. After dipping my toes in marathon and ultrarunning last year, I decided to dive in to some serious training and racing, with [Twisted Branch 100K][TB100K] the big goal race influencing most of this year, along with a handful of other big events.
+Looking back on 2015, most of what I have to say is about running, because that was pretty much the only thing I did all year. After dipping my toes in marathon and ultrarunning the previous year, I decided to dive in to some serious training and racing, with [Twisted Branch 100K][TB100K] the big goal race influencing most of this year, along with a handful of other big events.
 
 ## Running statistics and milestones (based on [Strava][])
 
@@ -37,7 +37,7 @@ I performed better:
 
 ## My favorite experiences
 
-Pre-dawn climbs led by [Ben Murphy][] at Hi Tor and Bristol ski trails, chasing the sunrise to a hilltop with friends, racing the sunset at Twisted Branch, marking the [Mighty Mosquito][MM99] race course in the night and checking it at 5 AM, a quiet midnight group run on the winter solstice.
+Early morning group runs under the starlight, pre-dawn climbs led by [Ben Murphy][] at Hi Tor and Bristol ski trails, chasing the sunrise to a hilltop with friends, racing the sunset at Twisted Branch, marking the [Mighty Mosquito][MM99] race course in the night and checking it at 5 AM, a quiet midnight group run on the winter solstice.
 
 Stupid amounts of running in the snow and cold, and learning to like it. Frigid Finger Lakes Trail explorations with Jason. Swimming in waist-deep snow in multiple TrailsRoc group runs. Bloody shins from wearing shorts in ice-crusted March snow. Idiotic winter hill climbing at [Canadice Lake][]. Snowshoe running and racing! Spelling out a 1,500 ft long snow [valentine][] to Valerie on snowshoes in a corn field. Elated to finally see a patch of bare dirt on a spring equinox run.
 
@@ -67,7 +67,7 @@ First time in the Catskills, thanks to [Ben Murphy][] and the wonderfully insane
     Hanging out on Sugarloaf Mountain, on the Devil’s Path. Photo by Colin Bailey.
 </div>
 
-Good times with friends: ice cream, slacklining, bonfires, ugly sweaters, bowling, birthday runs, cookies in a parking lot at midnight with unseen wildlife stalking us, crewing, aid station volunteering, pushing each other to new levels, discussing the difference between grapevine and poison ivy, lots of wrong turns, racing and sometimes falling down hills, lots of conversation, plenty of quiet moments together in nature. I made a lot of new friends, and most of these milestones and experiences were made better by your company.
+Good times with friends: ice cream, slacklining, bonfires, ugly sweaters, ginger ale, bowling, birthday runs, cookies in a parking lot at midnight with unseen wildlife stalking us, crewing, volunteering, pushing each other to new levels, raccoon encounters, lots of wrong turns, racing and sometimes falling down hills, lots of conversation, plenty of quiet moments together in nature. I made a lot of new friends, and most of these milestones and experiences were made better by your company.
 
 [#TrailsRoc][TrailsRoc]. Funny how sometimes one thing leads to another. In this case a seemingly mundane request to help test an iPhone app turned into a partnership, and then a board position, and meanwhile the group runs encouraged me to get out of my shell and take a shot at forging friendships and sharing time with people on the trails. Thanks TrailsRoc, here's to another good year.
 
@@ -76,7 +76,7 @@ Good times with friends: ice cream, slacklining, bonfires, ugly sweaters, bowlin
     #TrailsRoc Troubled Turkey Trail Run. Photo by Ron Heerkens Jr.
 </div>
 
-And most important, the best crew, driver, and voice of reason and encouragement one could have: Valerie.
+And most important, the best companion, crew, voice of reason and encouragement one could have: Valerie.
 
 <div class="figure">
     <img src="{{ site.url }}/assets/retro2015/selfie.jpg">
