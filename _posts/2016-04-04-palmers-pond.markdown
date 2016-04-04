@@ -3,7 +3,7 @@ title: Palmers Pond 50K. aka Palmer’s Creek. aka LOL. aka Kid in a Candy Store
 layout: post
 ---
 
-*I wasn't sure whether or how to write this race report. But I gave it a shot, because some important things happened. I'll skip a lot of details, but please see the RD’s [announcement and course description][initial], [Sheila’s (the female winner) great recap][Sheila], and here's some [Strava data][]. Usually my race reports are pretty objective, analyzing the performance and the technical details; a chronological, factual description of the day. This one turned out a little different, because the experience was pretty unique. Sorry, but it resisted editing, so here it is, a sort of stream of consciousness…*
+*I wasn't sure whether or how to write this race report. But I gave it a shot, because some important things happened. I'll skip a lot of details, but please see the RD’s [announcement and course description][initial], [Sheila’s (the female winner) great recap][Sheila], [Eric’s perspective][Eric], and here's some [Strava data][]. Usually my race reports are pretty objective, analyzing the performance and the technical details; a chronological, factual description of the day. This one turned out a little different, because the experience was pretty unique. Sorry, but it resisted editing, so here it is, a sort of stream of consciousness…*
 
 great vibe at the starting line. something you can't put a price on. most remote exit off a rural interstate, drive up a dirt road to the top of a hill, find the tents, pickups, and camp fire, that's the race. by the time i had finished the race, you could still count on your fingers the number of cars that had passed the site. colin the nervous new RD. most people there knew each other, and would all get to know each other better. colin's directions were thorough and amusing. discussion about who would clear the cobwebs, and whether todd beverly, holder of the #TrailsRoc golden axe, would clean up the trail for us.
 
@@ -46,3 +46,4 @@ a few other observations from the day:
 [Sheila]: https://shmeruns.wordpress.com/2016/04/03/palmers-pond-fatass-50k/
 [initial]: http://runningwithkevin.blogspot.com/2016/02/palmers-pond-fatass-50k-april-2nd-2016.html
 [fl50]: https://gist.github.com/mmertsock/d1f6238a6a7e8305696deb782f445ed6
+[Eric]: http://trailmethods.com/2016/04/04/palmers-pond-50k/
