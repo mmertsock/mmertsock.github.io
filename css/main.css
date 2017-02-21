@@ -447,3 +447,10 @@ dl + * {
     height: 20pt;
     border: 1pt solid #ccc;
 }
+
+.instagram-media {
+    width:79.375% ! important;
+    width:-webkit-calc(80% - 2px) ! important;
+    width:calc(80% - 2px) ! important;
+    margin: 1px auto ! important;
+}
