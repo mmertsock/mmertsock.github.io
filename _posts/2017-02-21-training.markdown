@@ -3,7 +3,7 @@ title: "Figuring Out Training; Looking at 2017"
 layout: post
 ---
 
-Following a haphazard 2016 autumn, I was in full hibernation until jumping back into distance running with a [stupid][] [track marathon][]. After getting that out of my system, I'm finally getting back into some semblance of purposeful [training][]. Last week was especially interesting.
+Following a haphazard 2016 autumn, I was in full hibernation until jumping back into distance running with a [stupid][] [track marathon][] (which we discussed on the [Running Inside Out radio show][radio]; maybe a recording will be posted someday). After getting that out of my system, I'm finally getting back into some semblance of purposeful [training][]. Last week was especially interesting.
 
 <div class="figure">
     <img src="{{ site.url }}/assets/feb2017log.png" srcset="{{ site.url }}/assets/feb2017log_2x.png 2x">
@@ -51,6 +51,7 @@ What's on the agenda for this year? [Breakneck Point][] 42k. [Laurel Highlands][
 
 [stupid]: https://www.strava.com/activities/839460309/overview
 [track marathon]: https://www.instagram.com/p/BPhpJdvDMNH/
+[radio]: http://www.runninginsideoutpodcast.com/radio-show/
 [training]: https://www.strava.com/athletes/5818978/training/log
 [Breakneck Point]: http://rednewtracing.com/BreakneckPoint
 [Laurel Highlands]: http://www.laurelultra.com
