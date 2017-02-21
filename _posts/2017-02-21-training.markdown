@@ -31,7 +31,7 @@ above philosophy to a half marathon on somewhat hilly roads. Got a PR (not that 
 Finger Lakes Trail delivers on challenge. Every mile I have seen. It's great ultra training. When running long on the FLT, it will will be harder, take longer, and stupid things will happen. Like a water bottle falling apart. Or "jeep roads" composed of equal parts snow, running water, and loose rock, deeply eroded into a briar-lined ditch climbing a long 20% grade. It was a blast, partly because this is often the route to some amazing scenery and special places in the wilderness (real or metaphorical). Whatever attitude it takes that allows me to do this stuff while smiling is what I need to hold on to late in an ultra. Something to remember.
 
 <div class="figure">
-    <img src="{{ site.url }}/assets/feb2017flt.jpg" srcset="{{ site.url }}/assets/feb2017flt_2x.jpg 2x">
+    <a href="{{ site.url }}/assets/feb2017flt_2x.jpg"><img src="{{ site.url }}/assets/feb2017flt.jpg" srcset="{{ site.url }}/assets/feb2017flt_2x.jpg 2x"></a>
     Do the work on the left for the reward on the right.
 </div>
 
