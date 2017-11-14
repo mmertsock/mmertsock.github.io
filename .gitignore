@@ -4,3 +4,4 @@ _drafts
 _scratch
 .DS_Store
 Gemfile.lock
+*.icloud
