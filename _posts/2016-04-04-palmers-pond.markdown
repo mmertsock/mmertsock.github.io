@@ -3,8 +3,6 @@ title: Palmers Pond 50K. aka Palmer’s Creek. aka LOL. aka Kid in a Candy Store
 layout: post
 ---
 
-*I wasn't sure whether or how to write this race report. But I gave it a shot, because some important things happened. I'll skip a lot of details, but please see the RD’s [announcement and course description][initial], [Sheila’s (the female winner) great recap][Sheila], [Eric’s perspective][Eric], and here's some [Strava data][]. Usually my race reports are pretty objective, analyzing the performance and the technical details; a chronological, factual description of the day. This one turned out a little different, because the experience was pretty unique. Sorry, but it resisted editing, so here it is, a sort of stream of consciousness…*
-
 great vibe at the starting line. something you can't put a price on. most remote exit off a rural interstate, drive up a dirt road to the top of a hill, find the tents, pickups, and camp fire, that's the race. by the time i had finished the race, you could still count on your fingers the number of cars that had passed the site. colin the nervous new RD. most people there knew each other, and would all get to know each other better. colin's directions were thorough and amusing. discussion about who would clear the cobwebs, and whether todd beverly, holder of the #TrailsRoc golden axe, would clean up the trail for us.
 
 was chilly at the start, me being one of the least dressed of the runners: short shorts, tech shirt + wool shirt, light gloves, cap. was ready to run it hard though, knowing full well that a 50-miler practice run (one of my original plans for the day) was off the table because i can't resist race mode. gear just a handheld bottle, a gel stashed in one pocket, a picky bar in the other pocket. inched toward the front of the crowd.
@@ -29,7 +27,6 @@ i would love to visit this same course in every season. i picture snowshoes in t
 
 a few other observations from the day:
 
-- i almost didn't race. but the night before, facebook lit up with memes, heckling, and accusations of sandbagging, and thus i was convinced to go
 - myself and some others expected possible PR conditions: atv trails, rolling hills without too much elevation, cool temperatures. by the end of the day, myself and some others had put in our slowest and most diffucult (and well-earned) 50Ks
 - one runner ran an “accidental” ultra: he had planned for 11 miles, never previously ran more than 20 miles, but through latent talent and willpower, the good (bad) influence of friends, and a willingness to just walk into the unknown, ended the day with a 50K finish
 - really all of the runners were amazing
@@ -37,7 +34,7 @@ a few other observations from the day:
 - i miraculously never fell. but it seems that every race i don't fall, i do lose my hat. usually, it's a prickly vine or something that pulls my hat off, this time it was a thorny tree branch, but at least i scored a point for knocking the branch down too.
 - race execution went well; aid station visits were relatively quick (though i still have much to learn), nutrition and hydration felt just right, which is something i am trying to work on
 - legs were sore and tired the last ten miles (especially when stuck halfway over a log, trying to maneuver legs that don't want to move), it took a lot of willpower to run with any speed the last five miles, but i had just enough mental/physical energy left to finish with some modicum of strength
-- mud is so much harder than hills. eleven minute miles felt like a sprint sometimes. applied the lessons learned from last year's muddy [Finger Lakes 50s][fl50]: ran the runnable sections hard, and did a water/calorie/recovery check and aid station pre-planning every time i was forced to walk
+- mud is so much harder than hills. eleven minute miles felt like a sprint sometimes. applied the lessons learned from last year's muddy Finger Lakes 50s: ran the runnable sections hard, and did a water/calorie/recovery check and aid station pre-planning every time i was forced to walk
 - having grown up in the southern tier of NY, this land felt like home. colin and I talked about this during the race: it's hard to explain, every forest and hill has a certain identity and locality, so you can feel in your bones when you're in the land you came from
 - getting to choose the direction and sequence of the last two laps was great. a confidence boost to get the muddy loop done early and in the preferred direction, and to look forward to a “fast” finish on the most runnable end of the “dry” loop
 - colin is a most excellent RD and he needs to continue doing this stuff. my award was maple syrup made by his family from trees on their property. finisher medals were hand made by colin right in front of us. very cool. thanks for everything Colin.
