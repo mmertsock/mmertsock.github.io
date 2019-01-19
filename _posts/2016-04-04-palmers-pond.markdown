@@ -41,6 +41,6 @@ a few other observations from the day:
 
 [Strava data]: https://www.strava.com/activities/534066889
 [Sheila]: https://shmeruns.wordpress.com/2016/04/03/palmers-pond-fatass-50k/
-[initial]: http://runningwithkevin.blogspot.com/2016/02/palmers-pond-fatass-50k-april-2nd-2016.html
+[initial]: https://runningwithkevin.blogspot.com/2016/02/palmers-pond-fatass-50k-april-2nd-2016.html
 [fl50]: https://gist.github.com/mmertsock/d1f6238a6a7e8305696deb782f445ed6
-[Eric]: http://trailmethods.com/2016/04/04/palmers-pond-50k/
+[Eric]: https://trailmethods.com/2016/04/04/palmers-pond-50k/

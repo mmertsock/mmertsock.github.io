@@ -14,6 +14,6 @@ A gradient is defined over several dimensions (three dimensions of color compone
 [TouchGradientPicker][GitHub] is the result of this work. It's an open-source UIKit library that provides two controls: `GradientView`, which simply renders a gradient, and `TouchGradientPicker` itself, which translates touch gestures into transformations on a color gradient. It's highly customizable, allowing you to determine exactly how gestures map to transformations on the gradient. Head over to [GitHub][] to check it out and see some demo code, and then clone it (or set up a [Carthage][] dependency) and add it to your app! [Let me know][] if you include it in your app, and submit those pull requests.
 
 [GitHub]: https://github.com/mmertsock/TouchGradientPicker
-[Dayly Calendar]: http://www.esker-apps.com/dayly/
+[Dayly Calendar]: https://www.esker-apps.com/dayly/
 [Carthage]: https://github.com/Carthage/Carthage
-[Let me know]: http://twitter.com/mmertsock
+[Let me know]: https://twitter.com/mmertsock

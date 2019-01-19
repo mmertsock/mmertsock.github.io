@@ -105,6 +105,6 @@ This post summarized everything I know about supporting GZip compressed HTTP req
 [ServiceStack]: https://servicestack.net
 [GZipStream]: https://msdn.microsoft.com/en-us/library/system.io.compression.gzipstream(v=vs.110).aspx
 [encoding-tokens]: https://en.wikipedia.org/wiki/HTTP_compression#Content-Encoding_tokens
-[so]: http://stackoverflow.com/q/28159280/795339
+[so]: https://stackoverflow.com/q/28159280/795339
 [filter]: https://msdn.microsoft.com/en-us/library/system.web.httprequest.filter(v=vs.110).aspx
 [Fiddler]: http://www.telerik.com/fiddler

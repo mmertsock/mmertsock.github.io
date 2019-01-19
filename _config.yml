@@ -1,5 +1,5 @@
 name: "Running|Code"
 description: "About software development and trail running."
-feedurl: http://www.runningcode.net
+feedurl: https://www.runningcode.net
 permalink: pretty
 exclude: [_scratch]
