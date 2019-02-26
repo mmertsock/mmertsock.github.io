@@ -30,10 +30,8 @@
     </main>
 
     <footer>
-{% if page.body_class != 'home' %}
-<!-- % include sitelinks.html % -->
-{% endif %}
-
+{% include sitelinks.html %}
+<!-- % if page.body_class != 'home' %} % include sitelinks.html % {% endif % -->
         <p class="cc-notice"><a href="{{ site.url }}/colophon/#license">{{ site.time | date: "%Y" }}</a></p>
     </footer>
 
