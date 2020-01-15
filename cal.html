@@ -1,0 +1,18 @@
+<html>
+  <body>
+    <script>
+        function basicTest() {
+var text = "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:icalendar-ruby\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nDTSTAMP:20200114T212859Z\nUID:6c1fe665-3698-441d-9713-9ef86963bda0\nDTSTART:20200130T160000Z\nDTEND:20200130T170000Z\nLOCATION:The Village Gate\nORGANIZER:Joy's\nSUMMARY:Haircut at Joy's\nEND:VEVENT\nEND:VCALENDAR";
+var mime = "text/x-vCalendar;charset=" + document.characterSet;
+var data = "data:" + mime + "," + text;
+showLog("about to open");
+window.location = data;
+showLog("opened");
+}
+    </script>
+    
+    <button onclick="basicTest()">Test</button>
+    
+  </body>
+  
+</html>
