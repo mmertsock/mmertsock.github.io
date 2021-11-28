@@ -53,6 +53,26 @@
     src: url(../assets/SourceCodePro-Light.otf);
 }
 
+:root {
+    /* TODO color-scheme: light dark; */
+    --font-face-header: "Ovo", "Palatino", "Georgia", sans-serif;
+    --font-face-header-forced: "Ovo";
+    --font-face-secondary: "Quicksand", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica-Light", "Helvetica Neue", Helvetica, Calibri, Arial, sans-serif;
+    --font-face-secondary-forced: "Quicksand";
+    --font-face-main: "Crimson Text", "Linden Hill", "Palatino", serif;
+    --font-face-main-forced: "Crimson Text";
+    --font-face-mono: "Source Code Pro", "Menlo", "Consolas", monospace;
+    --font-face-mono-forced: "Source Code Pro";
+    --background-color-main: hsl(165, 33%, 98%);
+    --background-color-header: hsl(133, 15%, 82%);
+    --text-color-main: hsl(185, 10%, 24%);
+    --text-color-secondary: hsl(173, 7%, 54%);
+    --link-color-main: hsl(202, 85%, 29%);
+    --link-color-main-active: hsl(208, 100%, 52%);
+    --link-color-secondary: var(--text-color-secondary);
+    --link-color-secondary-active: hsl(208, 50%, 52%);
+}
+
 .clearfix:before,
 .clearfix:after {
     content: " ";
@@ -74,7 +94,7 @@ select,
 textarea,
 body,
 h1 a:link, h1 a:visited, header h1 a:hover, header h1 a:active {
-    color: #384344;
+    color: var(--text-color-main);
 }
 
 a { /* inspired by inessential.com */
@@ -83,18 +103,18 @@ a { /* inspired by inessential.com */
     transition: all 0.2s ease-in-out;
 }
 
-a:link, a:visited { color: #0B5A87; }
-a:hover, a:active, h1 a:hover, h1 a:active { color: #0C8EFF; }
+a:link, a:visited { color: var(--link-color-main); }
+a:hover, a:active, h1 a:hover, h1 a:active { color: var(--link-color-main-active); }
 
 body {
     font-size: 14pt;
     line-height: 1.3;
     font-family: "HelveticaNeue-Medium", "Helvetica Neue Medium", "Helvetica Neue", Helvetica, Calibri, Arial, sans-serif;
-    background-color: #f7fbfa;
+    background-color: var(--background-color-main);
 }
 
 h1, h2, h3, header .caption, article .figure {
-    font-family: "Quicksand", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica-Light", "Helvetica Neue", Helvetica, Calibri, Arial, sans-serif;
+    font-family: var(--font-face-secondary);
     font-weight: 300;
     letter-spacing: -0.075em;
     margin-bottom: 0.5em;
@@ -102,13 +122,13 @@ h1, h2, h3, header .caption, article .figure {
 }
 
 p, blockquote, li, dt, dd {
-    font: 15pt/22pt "Crimson Text", "Linden Hill", "Palatino", serif;
+    font: 15pt/22pt var(--font-face-main);
     -webkit-hyphens: auto;
     hyphens: auto;
 }
 
 code, kbd, pre, samp {
-    font-family: "Source Code Pro", "Menlo", "Consolas", monospace;
+    font-family: var(--font-face-mono);
     font-size: 11pt;
     -webkit-hyphens: none;
     hyphens: none;
@@ -121,34 +141,39 @@ code, kbd, pre, samp {
 
 pre {
     line-height: 17pt;
-    background-color: #f0f0f0; /* TODO */
-    border-left: 6px solid #cccccc; /* TODO */
+    background-color: #f0f0f0;
+    border-color: #cccccc;
+    border-style: solid;
+    border-width: 0 0 0 6px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
     padding: 3px 6px;
 }
 
 h1 code, h2 code, h3 code {
-    font-family: "Source Code Pro";
+    font-family: var(--font-face-mono);
     font-size: inherit;
     line-height: inherit;
     font-weight: lighter;
 }
 
-.highlight {
-    background-color: transparent;
+.highlighter-rouge > div.highlight > pre.highlight {
+    /*background-color: transparent;*/
+    border-width: 1px 1px 1px 6px;
 }
 
 header {
     width: 100%;
     margin: 0;
     padding: 1.5em 0;
-    background-color: #c9d7cc;
+    background-color: var(--background-color-header);
 }
 
 header h1 {
     width: 100%;
     text-align: center;
     margin: 0.5em 0 0.2em 0;
-    font-family: "Ovo", "Palatino", "Georgia", sans-serif;
+    font-family: var(--font-face-header);
     font-weight: normal;
     letter-spacing: 1pt;
 }
@@ -174,20 +199,19 @@ main {
 body > footer {
     margin: 1.5em 0 0.5em 0;
     text-align: center;
-    color: #81918F;
+    color: var(--text-color-secondary);
 }
 
 body > footer a:link, body > footer a:visited {
-    color: #81918F;
+    color: var(--link-color-secondary);
 }
 
-/* half-saturation variant of main a:link/visited */
 body > footer a:hover, body > footer a:active {
-    color: #0C8EFF;
+    color: var(--link-color-secondary-active);
 }
 
 body > footer p {
-    font-family: "Quicksand", "HelveticaNeue-Light", "Helvetica", sans-serif;
+    font-family: var(--font-face-secondary);
     font-weight: 400;
     font-size: 12pt;
     line-height: 18pt;
@@ -196,39 +220,12 @@ body > footer p {
     /* letter-spacing: -1pt; */
 }
 
-#mc_embed_signup {
-    min-width: 280px;
-    max-width: 90%;
-    margin: 0 auto;
-}
-
-#mc_embed_signup form {
-    padding: 0;
-}
-
-#mc_embed_signup div#mc_embed_signup_scroll {
-    max-width: 340px;
-    margin: 0 auto;
-    padding: 0.5em;
-    border-radius: 0.5em;
-    background-color: #f0f0f0;
-}
-
-#mc_embed_signup label {
-    text-align: center;
-}
-
-#mc_embed_signup input.email,
-#mc_embed_signup input.button {
-    margin-left: auto;
-    margin-right: auto;
-    width: auto;
-    min-width: 260px;
-    max-width: 90%;
-}
-
 .latest h3 {
     margin-bottom: 0.3em;
+}
+
+.latest h3 a {
+    text-decoration: none;
 }
 
 .latest .excerpt {
@@ -257,7 +254,7 @@ body.home h2:before {
 
 article footer {
     margin-top: 1.25em;
-    color: #81918F;
+    color: var(--text-color-secondary);
 }
 
 article footer li {
@@ -266,13 +263,13 @@ article footer li {
 }
 
 a.back:link, a.back:visited, a.back:hover, a.back:active {
-    color: #81918F;
+    color: var(--link-color-secondary);
     font-size: 10pt;
     text-decoration: none;
 }
 
 a.back:hover, a.back:active {
-    color: #0C8EFF;
+    color: var(--link-color-secondary-active);
 }
 
 sup a {
@@ -294,7 +291,7 @@ nav.archive time {
     margin: 0 0 0 -8em;
     float: left;
     text-align: right;
-    color: #81918F;
+    color: var(--text-color-secondary);
 }
 
 nav.links ul {
@@ -397,7 +394,7 @@ blockquote cite:before {
 
 .discuss {
     margin-top: 2.5em;
-    font-family: "Quicksand", "HelveticaNeue-Light", "Helvetica", sans-serif;
+    font-family: var(--font-face-secondary);
     font-weight: 400;
     font-size: 12pt;
     letter-spacing: -1pt;
@@ -446,6 +443,54 @@ dl + * {
     width: 36pt;
     height: 20pt;
     border: 1pt solid #ccc;
+}
+
+#color-sample-text-color-main .color-sample {
+    background-color: var(--text-color-main);
+}
+
+#color-sample-link-color-main .color-sample {
+    background-color: var(--link-color-main);
+}
+
+#color-sample-link-color-main-active .color-sample {
+    background-color: var(--link-color-main-active);
+}
+
+#color-sample-text-color-secondary .color-sample {
+    background-color: var(--text-color-secondary);
+}
+
+#color-sample-link-color-secondary-active .color-sample {
+    background-color: var(--link-color-secondary-active);
+}
+
+#color-sample-background-color-main .color-sample {
+    background-color: var(--background-color-main);
+}
+
+#color-sample-background-color-header .color-sample {
+    background-color: var(--background-color-header);
+}
+
+#font-sample-font-face-header {
+    font-family: var(--font-face-header-forced);
+    font-weight: normal;
+}
+
+#font-sample-font-face-secondary {
+    font-family: var(--font-face-secondary-forced);
+    font-weight: 300; letter-spacing: -0.075em;
+}
+
+#font-sample-font-face-main {
+    font-family: var(--font-face-main-forced);
+    font-weight: normal;
+}
+
+#font-sample-font-face-mono {
+    font-family: var(--font-face-mono-forced);
+    font-weight: normal;
 }
 
 .instagram-media {
