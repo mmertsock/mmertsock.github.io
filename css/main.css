@@ -340,6 +340,19 @@ article .figure img {
     max-width: 570px;
 }
 
+p.triforce {
+    padding-left: 20px;
+    background-size: 20px 18px;
+    min-height: 18px;
+    background-image: image-set(url(../assets/triforce-glyph-dark-20.png) 1x, url(../assets/triforce-glyph-dark-40.png) 2x);
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+
+p.triforce span {
+    display: none;
+}
+
 @media only screen and (max-device-width: 500px) {
     header {
         padding: 0.5em 0;
