@@ -5,3 +5,4 @@ _scratch
 .DS_Store
 Gemfile.lock
 *.icloud
+.nova
