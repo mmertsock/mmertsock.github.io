@@ -64,8 +64,10 @@
     --font-face-mono: "Source Code Pro", "Menlo", "Consolas", monospace;
     --font-face-mono-forced: "Source Code Pro";
     --background-color-main: hsl(165, 33%, 98%);
+    --background-color-inverse: hsl(185, 10%, 12%);
     --background-color-header: hsl(133, 15%, 82%);
     --text-color-main: hsl(185, 10%, 24%);
+    --text-color-inverse: hsl(133, 15%, 82%);
     --text-color-secondary: hsl(173, 7%, 54%);
     --link-color-main: hsl(202, 85%, 29%);
     --link-color-main-active: hsl(208, 100%, 52%);
