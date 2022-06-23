@@ -115,12 +115,23 @@ body {
     background-color: var(--background-color-main);
 }
 
-h1, h2, h3, header .caption, article .figure {
+h1, h2, h3, header .caption, article .figure, time {
     font-family: var(--font-face-secondary);
     font-weight: 300;
     letter-spacing: -0.075em;
     margin-bottom: 0.5em;
     text-rendering: optimizelegibility;
+}
+
+h1.with-time {
+    margin-bottom: 0;
+}
+
+h1.with-time + time {
+    display: block;
+    color: var(--text-color-secondary);
+    font-size: 80%;
+    margin-bottom: 1.25em; /* match the 0.5em margin of h1 without time */
 }
 
 p, blockquote, li, dt, dd {

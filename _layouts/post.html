@@ -4,7 +4,14 @@ layout: default
 
 <article>
 
+    {% if page.date %}
+    <h1 class="with-time"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date_to_string }}
+    </time>
+    {% else %}
     <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    {% endif %}
 
     {{ content }}
 
