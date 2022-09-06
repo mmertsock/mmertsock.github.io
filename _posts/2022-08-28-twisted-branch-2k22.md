@@ -1,7 +1,6 @@
 ---
 title: Twisted Branch 2022
 layout: post
-show_modified_notice: false
 ---
 
 <div class="figure"><img src="{{ site.url }}/assets/posts/twisted-coffee.jpg" alt="A Twisted Branch finisher's mug full of coffee, my race bib, and a phone showing this blog post." style="max-width: calc(min(80%, 400px));"></div>
