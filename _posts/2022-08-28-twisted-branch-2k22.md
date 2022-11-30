@@ -109,7 +109,7 @@ Thanks.
 [Vol State 500K]: https://vacationwithoutacar.com/races/vol-state/
 [Laz]: https://vacationwithoutacar.com/5-days-update/
 [training impulse]: https://fellrnr.com/wiki/TRIMP
-[jackd]: https://greenje91.codeberg.page/words/jackdaniels.html
+[jackd]: https://greenje91.codeberg.page/words/20220705-danielsrunning.html
 [trail signs]: {{ site.url }}/2022/06/12/adk-signs/
 [ADK46]: https://www.strava.com/activities/7437814384
 [a50k]: https://www.strava.com/activities/7550357448/overview
