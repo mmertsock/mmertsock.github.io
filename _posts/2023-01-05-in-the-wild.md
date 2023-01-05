@@ -1,6 +1,6 @@
 ---
-layout: default
 title: "Breath in the Wild"
+layout: post
 ---
 
 thinking about another playthrough of _Breath of the Wild_, with the emphasis on "wild". as in, "in the wild". the rules as planned, presented in bullet form because i'm a fiend for bullets:
