@@ -2,4 +2,5 @@ name: "Running|Code"
 description: "About software development and trail running."
 feedurl: https://www.runningcode.net
 permalink: pretty
+mastodon: "https://iosdev.space/@mmertsock"
 exclude: [_scratch]
