@@ -87,7 +87,7 @@ The `Program` and `REPL` classes do most of the heavy lifting right now, they pa
 
 Note that so far, the virtual machine has no true interaction with the outside world. No memory, no I/O. Our web app is directly parsing and feeding it instructions to execute from user input, and directly inspecting the registers to show what happened. It would be like using microscopes or oscilloscopes pointed at a CPU and calling that the "output" of a real computer. At some point we'll need concepts for memory and I/O.
 
-[Ping me on Mastodon][mastodon] to discuss.
+[Ping me on Mastodon][mastodon-post] to discuss.
 
 ## What's next
 
@@ -105,4 +105,4 @@ Multiplication. This will require a program counter and some additional instruct
 [commutative]: https://en.wikipedia.org/wiki/Commutative_property
 [machine code]: https://en.wikipedia.org/wiki/Machine_code
 [program counter]: https://en.wikipedia.org/wiki/Program_counter
-[mastodon]: {{ site.mastodon }}
+[mastodon-post]: https://iosdev.space/@mmertsock/109764956915503153
