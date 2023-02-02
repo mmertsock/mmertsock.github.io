@@ -46,6 +46,7 @@ Unless otherwise noted, all text and code on this site is licensed under a <a re
 
 <script defer>
 (function() {
+    // wow! this could just be: getComputedStyle(document.body).getPropertyValue(varName)
     function getCSSVarValue(varName) {
         let css = Array.from(document.styleSheets).find(css => css.ownerNode?.href?.endsWith("/css/main.css"));
         if (!css) { return null; }
