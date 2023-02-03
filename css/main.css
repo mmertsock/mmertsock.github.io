@@ -484,6 +484,9 @@ dl + * {
     height: 20pt;
     border: 1pt solid #ccc;
 }
+.color-value {
+    color: var(--text-color-secondary);
+}
 
 #color-sample-text-color-main .color-sample {
     background-color: var(--text-color-main);

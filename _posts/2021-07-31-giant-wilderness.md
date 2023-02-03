@@ -1,7 +1,6 @@
 ---
 title: "The Official Old Mountain Coffee® Giant Wilderness Traverse™"
 layout: post
-show_modified_notice: false
 ---
 
 In late July, Strat and I did an extended version of the classic Rocky Peak-Giant traversal: starting at the east trailhead in New Russia, traversing Rocky Peak Ridge to Giant, but then instead of descending directly to 73, taking the north trail off the "back" of Giant deeper into the wilderness near Green, and then over Hopkins and Spread Eagle before finishing right in Keene Valley. Or more precisely, finishing at the door of Old Mountain Coffee for post-hike treats.
@@ -14,11 +13,16 @@ We misremembered the exact sequence of the little peaks and features along that 
 
 Next was the descent along the north trail toward Green. We had talked about maybe bushwhacking up Green to work on our hundred-highest log, but I had an excellent rationalization for our cold tired bodies to save this for another day: a full east-to-west traversal of Green starting in the brook near Owl's Head sounded way more interesting. I had read there were cool rock formations, why miss out on that?
 
-Anyway, the north trail was cool. Always interesting to see how different these lesser-used trails can feel. This was a primeval area full of green mosses and ferns, gray mist, and the rich reds and browns of rotting wood. All of these colors were even more [saturated][] after the rain. It felt like moving through a waking dream or some fantasy film.
+Anyway, the north trail was a treat. Always interesting to see how different these lesser-used trails can feel. This was a primeval area full of green mosses and ferns, gray mist, and the rich reds and browns of rotting wood. All of these colors were even more [saturated][] after the rain. It felt like moving through a waking dream or some fantasy film.
 
 On the way to Hopkins, the trail goes over a bump on the shoulder of Green through a rather shadowy stretch of spruces. To add to the spooky mood, we found lots of ghost pipes growing at the edges of the trail. So I named this Ghost Pipe Mountain.
 
-The clouds finally broke just in time for our arrival at the Hopkins summit, and we savored dry rock and spectacular views. One of our favorite summit views. Then time to finish up, we were ready for snacks so we hurried down into town. We had started the day with a stop at Old Mountain to fuel up before the hike, and now were finishing it there, reporting the day's exploits to Nick—the same barista who saw us off in the morning.
+<div class="figure">
+<a href="https://youtu.be/61-o2YaECno"><img src="{{ site.url }}/assets/posts/giant-2021-yt-thumb.jpg"></a>
+Here's a <a href="https://youtu.be/61-o2YaECno">video</a> on YouTube
+</div>
+
+The clouds finally broke just in time for our arrival at the Hopkins summit, and we savored dry rock and spectacular views. It's one of our favorite summit views. Then time to finish up, we were ready for snacks so we hurried down into town. We had started the day with a stop at Old Mountain to fuel up before the hike, and now were finishing it there, reporting the day's exploits to Nick—the same barista who saw us off in the morning.
 
 Good times and a fun route. I would revisit this in every season to see how the terrain, views, and effort levels change in various conditions.
 

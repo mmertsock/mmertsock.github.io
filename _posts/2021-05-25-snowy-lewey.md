@@ -1,7 +1,6 @@
 ---
 title: Snowy and Lewey Mountains
 layout: post
-show_modified_notice: false
 ---
 
 A nice pair of Adirondack hikes in May 2021. My first mountains this year — now that me and my friend Strat are fully vaccinated — and a warm-up for the season while working toward my goal to visit the ADK Hundred Highest. Both of these summits were new to us, as we had only seen a few of the hundred highest outside of the 46 high peaks. We both enjoy avoiding crowds and off-trail adventures, so we’re really looking forward to seeing more of the “other 54”.
@@ -14,7 +13,7 @@ The lower parts of the Snowy trail were quick and pleasant. Looks like the trail
 
 The main climb to Snowy’s summit was pretty much the steep eroded workout I expected and enjoy, but the snow and ice I feared based on reports from the high peaks region never materialized, except for a few tiny patches tucked in a corner on the steepest part of the climb (Strat didn’t even notice it on the climb, and couldn’t believe it when he spotted it on the way down). I gave it a little poke and moved on.
 
-Cool summit and a cute little fire tower with incredible views. Thought it was interesting that there was basically no clearing around the tower.
+Cool summit and a cute little fire tower with incredible views. Thought it was interesting that the observer cabin was a bit distant and downhill from the tower, with basically no clearing around the tower itself: it was awash in trees right up to the foundation. Trees which thoughtfully caught Strat’s hat after it blew off of his head up in the windy tower cab.
 
 Hopped back down and finished the hike at dusk, making a game of getting back to the trailhead before headlamps were required (which is getting harder every year as our night vision weakens). Reminisced in the near-dark about various weird wildlife sounds and smelling bears during previous bushwhacking adventures.
 

@@ -21,11 +21,11 @@ no_discuss: true
 
 <dl class="color-samples">
     <dt>Nameplate</dt>
-    <dd id="color-sample-background-color-header"><span class="color-sample">&#8203;︎</span><span class="description">“Blue Hubbard Squash”</span></dd>
+    <dd id="color-sample-background-color-header"><span class="color-sample">&#8203;︎</span><span class="description">“Blue Hubbard Squash” <span class="color-value"></span></span></dd>
     <dt>Page background</dt>
-    <dd id="color-sample-background-color-main"><span class="color-sample bordered">&#8203;︎</span><span class="description">“Writing Paper”</span></dd>
+    <dd id="color-sample-background-color-main"><span class="color-sample bordered">&#8203;︎</span><span class="description">“Writing Paper” <span class="color-value"></span></span></dd>
     <dt>Body text</dt>
-    <dd id="color-sample-text-color-main"><span class="color-sample">&#8203;︎</span><span class="description">“Anthracite”</span></dd>
+    <dd id="color-sample-text-color-main"><span class="color-sample">&#8203;︎</span><span class="description">“Anthracite” <span class="color-value"></span></span></dd>
     <dd id="color-sample-text-color-secondary"><span class="color-sample">&#8203;︎</span></dd>
     <dt>Links</dt>
     <dd id="color-sample-link-color-main"><span class="color-sample">&#8203;︎</span></dd>
@@ -46,38 +46,30 @@ Unless otherwise noted, all text and code on this site is licensed under a <a re
 
 <script defer>
 (function() {
-    // wow! this could just be: getComputedStyle(document.body).getPropertyValue(varName)
-    function getCSSVarValue(varName) {
-        let css = Array.from(document.styleSheets).find(css => css.ownerNode?.href?.endsWith("/css/main.css"));
-        if (!css) { return null; }
-        let root = Array.from(css.cssRules).find(rule => rule.selectorText == ":root");
-        if (!root) { return null; }
-        let text = root.style.getPropertyCSSValue(varName)?.cssText;
-        return text;
-    }
-    
-    function fillColorSamplePlaceholder(name) {
+    function fillColorSamplePlaceholder(name, style) {
         let id = `color-sample-${name}`;
-        let varName = `--${name}`;
-        let varValue = getCSSVarValue(varName);
+        let varValue = style.getPropertyValue(`--${name}`);
         let dd = document.querySelector(`#${id}`);
         if (!varValue || !dd) { return; }
-        let elem = dd.querySelector(".description");
+        let elem = dd.querySelector(".color-value");
         if (elem) {
-            elem.innerText = elem.innerText + " " + varValue;
+            elem.innerText = varValue;
         } else {
             elem = document.createElement("span");
             elem.classList.toggle("description", true);
+            elem.classList.toggle("color-value", true);
             elem.innerText = varValue;
             dd.append(elem);
         }
     }
-    fillColorSamplePlaceholder("background-color-header");
-    fillColorSamplePlaceholder("background-color-main");
-    fillColorSamplePlaceholder("text-color-main");
-    fillColorSamplePlaceholder("text-color-secondary");
-    fillColorSamplePlaceholder("link-color-main");
-    fillColorSamplePlaceholder("link-color-main-active");
-    fillColorSamplePlaceholder("link-color-secondary-active");
+    
+    let style = getComputedStyle(document.body);
+    fillColorSamplePlaceholder("background-color-header", style);
+    fillColorSamplePlaceholder("background-color-main", style);
+    fillColorSamplePlaceholder("text-color-main", style);
+    fillColorSamplePlaceholder("text-color-secondary", style);
+    fillColorSamplePlaceholder("link-color-main", style);
+    fillColorSamplePlaceholder("link-color-main-active", style);
+    fillColorSamplePlaceholder("link-color-secondary-active", style);
 })();
 </script>
