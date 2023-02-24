@@ -48,6 +48,10 @@ title: "Accumulation, or: Time, Stopped"
 		text-align: center;
 		align-items: center;
 		justify-content: center;
+		background-color: hsla(0, 0%, 100%, 0.05);
+		background-position: center;
+		background-size: contain;
+		background-repeat: no-repeat;
 	}
 	
 	section p {
@@ -94,10 +98,6 @@ title: "Accumulation, or: Time, Stopped"
 	section {
 		display: none;
 		opacity: 0;
-		background-color: hsla(0, 0%, 100%, 0.05);
-		background-position: center;
-		background-size: contain;
-		background-repeat: no-repeat;
 	}
 	
 	section p {
@@ -111,7 +111,7 @@ title: "Accumulation, or: Time, Stopped"
 	section.viewed {
 		display: flex;
 		opacity: 1;
-		animation: fade-in 1s;
+		animation: fade-in 2s;
 	}
 	
 	#s1 {
@@ -196,7 +196,8 @@ title: "Accumulation, or: Time, Stopped"
 				}
 			});
 			
-			this.view(0);
+			this.preload(0);
+			setTimeout(() => this.view(0), 1000);
 		}
 		
 		get isAtEnd() {
