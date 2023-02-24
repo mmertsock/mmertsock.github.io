@@ -204,11 +204,16 @@ title: "Accumulation, or: Time, Stopped"
 			return this.index == this.sections.length - 1;
 		}
 		
+		isValidIndex(index) {
+			return index >= 0 && index < this.sections.length;
+		}
+		
 		next() {
 			this.view(this.index + 1);
 		}
 		
 		view(index) {
+			if (!this.isValidIndex(index)) { return; }
 			this.index = index;
 			let elem = this.sections[this.index];
 			elem.classList.toggle("viewed", true);
@@ -216,6 +221,13 @@ title: "Accumulation, or: Time, Stopped"
 			this.sections.forEach((elem, i) => {
 				elem.classList.toggle("current", index == i);
 			});
+			
+			// auto-advance
+			setTimeout(() => {
+				if (this.index == index) {
+					this.next();
+				}
+			}, 5000);
 			
 			this.preload(index + 1);
 		}
@@ -228,7 +240,7 @@ title: "Accumulation, or: Time, Stopped"
 		}
 		
 		preload(index) {
-			if (index >= this.sections.length) { return; }
+			if (!this.isValidIndex(index)) { return; }
 			this.preloading = new Image();
 			// further increment index because the image URLs are 1-based not 0-based
 			this.preloading.src = `{{ site.url }}/accumulation/full-${index + 1}.jpg`;
