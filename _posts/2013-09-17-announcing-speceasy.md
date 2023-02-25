@@ -3,7 +3,7 @@ title: Announcing SpecEasy
 layout: post
 ---
 
-*As an employee of [TrackAbout][], I have been helping to develop SpecEasy and prepare it for public release. A version of this announcement was originally posted September 17 on the [TrackAbout Blog][].*
+*As a employee of [TrackAbout][], I have been helping to develop SpecEasy and prepare it for public release. A version of this announcement was originally posted September 17 on the [TrackAbout Blog][].*
 
 <div style="text-align: center;">
     <img src="https://raw.github.com/trackabout/speceasy/master/speceasy_logo.png" style="max-width: 75%;">
@@ -71,16 +71,16 @@ SpecEasy is currently designed to run on top of the widely supported NUnit test 
 Check out our readme on [GitHub][SpecEasy] for a more detailed overview and tutorial, and the [SpecEasy.Specs][] test classes for more examples. Better yet, fork our repository and send us a pull request. We’re looking forward to your comments and contributions.
 
 [SpecEasy]: https://github.com/trackabout/speceasy
-[Rock]: http://thoughts.rockhymas.com/post/46502436466/introducing-speceasy
+[Rock]: https://thoughts.rockhymas.com/post/46502436466/introducing-speceasy
 [BDD]: https://en.wikipedia.org/wiki/Behavior-driven_development
 [TDD]: https://en.wikipedia.org/wiki/Test-driven_development
-[SpecsFor]: http://specsfor.com
-[NSpec]: http://nspec.org
+[SpecsFor]: https://web.archive.org/web/20131103164300/http://specsfor.com/
+[NSpec]: https://web.archive.org/web/20130627024809/http://nspec.org/
 [NuGet]: https://www.nuget.org/packages/SpecEasy/
-[devtime]: http://blog.trackabout.com/2012/10/17/self-directed-developer-time/
+[devtime]: https://web.archive.org/web/20130918225055/http://blog.trackabout.com/2012/10/17/self-directed-developer-time/
 [Trello]: https://trello.com
-[syntax]: http://i2.wp.com/blog.trackabout.com/wp-content/uploads/2013/09/speceasy-syntax.png
 [logo]: https://raw.github.com/trackabout/speceasy/master/speceasy_logo_sq_128.png
-[TrackAbout Blog]: http://blog.trackabout.com/2013/09/17/announcing-speceasy/
-[TrackAbout]: http://corp.trackabout.com
+[TrackAbout Blog]: https://web.archive.org/web/20131105232932/http://blog.trackabout.com/2013/09/17/announcing-speceasy/
+[TrackAbout]: https://corp.trackabout.com
 [SpecEasy.Specs]: https://github.com/trackabout/speceasy/tree/master/SpecEasy.Specs
+[syntax]: {{ site.url }}/assets/posts/speceasy-syntax.png

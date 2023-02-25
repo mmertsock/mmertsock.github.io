@@ -16,4 +16,4 @@ Before finding these new APIs, I had finished writing my own version of `startOf
 [NSCalendar-OSX]: https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSCalendar_Class/
 [diffs]: https://developer.apple.com/library/ios/releasenotes/General/iOS80APIDiffs/frameworks/Foundation.html
 [Gist]: https://gist.github.com/mmertsock/59a7673df76bc31b14e4
-[NSHipster]: http://nshipster.com/nscalendar-additions/
+[NSHipster]: https://nshipster.com/nscalendar-additions/

@@ -24,4 +24,4 @@ Keep to this path and you will arrive at the MVAP: the [minimum viable awesome p
 [mvp-def]: https://en.wikipedia.org/wiki/Minimum_viable_product
 [Trello]: https://trello.com/mmertsock/recommend
 [saying no]: https://www.youtube.com/watch?v=H8eP99neOVs
-[MVAP]: http://blog.carbonfive.com/2013/05/31/introducing-mvap-the-minimum-viable-awesome-product/
+[MVAP]: https://blog.carbonfive.com/introducing-mvap-the-minimum-viable-awesome-product/

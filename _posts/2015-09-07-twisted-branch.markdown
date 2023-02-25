@@ -4,7 +4,7 @@ layout: post
 show_modified_notice: true
 ---
 
-*This is a very long story. But I don't really know how to condense it. You probably want to skim the first couple of sections and then skip to the [end](#final-thoughts).*
+<p class="editorial-note">This is a very long story. But I don't really know how to condense it. You probably want to skim the first couple of sections and then skip to the <a href="#final-thoughts">end</a>.</p>
 
 > *Update:* several friends with whom I shared the day have offered their perspectives on the race: [Chris][], [Dan][], [Jason][], [Jeff][], [Laura][], [Matt][], [Rob][]. Every one of them showed incredible strength and spirit as they fought challenges that I can barely imagine, or executed an amazing race performance (actually they all did both).
 
@@ -187,33 +187,32 @@ The volunteers (almost as many volunteers as racers) and aid stations were all e
 - Shoes: Altra Lone Peak 2.0. On my third pair of these. They are the most comfortable shoe I've ever worn and they have handled every challenge. The durability of the upper can be a problem though, and my primary pair had some small but growing holes. I decided to stick with them and brought a newer pair for backup. But they performed perfectly all day and the holes behaved.
 - Other gear: Ultimate Direction SJ Ultra Vest and Body Bottles, North Face Long Haul shorts, PEP hat. I've been going more minimal with gear lately, but opted for the vest to keep the hands free on the climbs. The soft bottles are worth the investment: no sloshing and all discomfort eliminated. [PEP][] offers American-made wool clothing, and their hat is cheap and awesome.
 - Calories: a roughly even mix of tailwind, gels, and real food. I used Picky bars and Clif purées early in the race, but with the mild dehydration and the hint of poor digestion, I switched to the Munk Packs offered at the aid stations as they were much easer to suck down and digest.
-- GPS: I think [iSmoothRun][] on iPhone (thrown in back of the vest in a [Loksak][]), paired with an Apple Watch, is as good as any GPS watch these days. I get 10 hours or more of battery life, and a phone case with builtin battery more than doubles that. I also loaded the official [Finger Lakes Trail maps][FLT] on the phone, helpful for the preview runs and figuring out that wrong turn at mile 48.
+- GPS: I think [iSmoothRun][] on iPhone (thrown in back of the vest in a Loksak), paired with an Apple Watch, is as good as any GPS watch these days. I get 10 hours or more of battery life, and a phone case with builtin battery more than doubles that. I also loaded the official [Finger Lakes Trail maps][FLT] on the phone, helpful for the preview runs and figuring out that wrong turn at mile 48.
 
 <div class="figure">
     <a href="{{ site.url }}/assets/tb100k/gear.jpg"><img src="{{ site.url }}/assets/tb100k/thumbs/gear.jpg"></a>
 </div>
 
-[TB100K]: http://www.twistedbranchtrail.com
+[TB100K]: https://www.twistedbranchtrail.com
 [MTD]: https://www.strava.com/activities/301354951
 [OSTR]: https://www.strava.com/activities/315125540
 [FL50s]: https://www.strava.com/activities/339525772
 
-[Chris]: http://www.christopherobrien.net/blog/twisted-branch-100k-2015
+[Chris]: https://web.archive.org/web/20180204120947/http://www.christopherobrien.net/blog/twisted-branch-100k-2015
 [Dan]: https://dlopata.wordpress.com/2015/09/10/the-usual-suspects-old-skool/
-[Jason]: http://liveagoodlife.postach.io/post/twisted-branch-2015-a-pacer-volunteer-ultra-loiterer-s-perspective
+[Jason]: https://liveagoodlife.postach.io/post/twisted-branch-2015-a-pacer-volunteer-ultra-loiterer-s-perspective
 [Jeff]: https://hahaitsjeff.wordpress.com/2015/09/08/no-oh-no-i-cant-be-done-yet/
 [Laura]: https://onbelaydesigns.wordpress.com/2015/09/06/twisted-branch-100k-2015/
 [Matt]: https://pequalsmv.wordpress.com/2015/09/10/i-literally-shaved-my-leg-for-this-race-a-twisted-branch-100k-race-report/
 [Rob]: https://gooseadventureracing.wordpress.com/2015/09/09/2/
-[Scott Magee]: http://www.runninginsideoutpodcast.com/podcast/001-10th-overall-female
+[Scott Magee]: https://www.runninginsideoutpodcast.com/guests/scott-magee
 
 [Ascend Collective]: http://www.theascendcollective.com
-[TrailsRoc]: http://www.trailsroc.org
+[TrailsRoc]: https://www.trailsroc.org
 [corn]: https://youtu.be/pU3hZPN6qYc
 [Race results]: https://ultrasignup.com/results_event.aspx?did=30894
 [Strava]: https://www.strava.com/activities/381368405
 [PEP]: http://www.pettetendurance.com
 [iSmoothRun]: http://www.ismoothrun.com
-[Loksak]: http://loksak.com/civilian/
-[FLT]: http://www.fltconference.org/trail/
-[Wookie]: http://wookierunsamerica.com
+[FLT]: https://fingerlakestrail.org
+[Wookie]: https://wookierunsamerica.com

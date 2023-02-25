@@ -43,7 +43,7 @@ With [help from the creator of ServiceStack][so], I learned that `System.Web.Htt
 
 Using an HttpModule to apply a Filter to each incoming request, it’s easy to implement automatic decompression of all GZip-compressed request bodies:
 
-    // Credit to http://stackoverflow.com/a/28159849/795339
+    // Credit to https://stackoverflow.com/a/28159849/795339
     public class GZipRequestDecompressingModule : IHttpModule
     {
         public void Init(HttpApplication context)
@@ -107,4 +107,4 @@ This post summarized everything I know about supporting GZip compressed HTTP req
 [encoding-tokens]: https://en.wikipedia.org/wiki/HTTP_compression#Content-Encoding_tokens
 [so]: https://stackoverflow.com/q/28159280/795339
 [filter]: https://msdn.microsoft.com/en-us/library/system.web.httprequest.filter(v=vs.110).aspx
-[Fiddler]: http://www.telerik.com/fiddler
+[Fiddler]: https://www.telerik.com/fiddler
