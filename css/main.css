@@ -277,6 +277,7 @@ article footer li {
     line-height: 18pt;
 }
 
+/* footnote back-links */
 a.back:link, a.back:visited, a.back:hover, a.back:active {
     color: var(--link-color-secondary);
     font-size: 10pt;
@@ -368,7 +369,7 @@ p.triforce span {
     display: none;
 }
 
-@media only screen and (max-device-width: 500px) {
+@media only screen and (max-width: 500px) {
     header {
         padding: 0.5em 0;
     }
@@ -401,6 +402,18 @@ p.triforce span {
     article .figure img {
         max-width: 100%;
     }
+}
+
+.editorial-note {
+    padding: 4pt;
+    border-radius: 4pt;
+    background-color: var(--background-color-subtle);
+    font-style: italic;
+}
+
+.editorial-note::before {
+    content: "❖ ";
+    font-style: normal;
 }
 
 blockquote cite {
@@ -486,6 +499,19 @@ dl + * {
 }
 .color-value {
     color: var(--text-color-secondary);
+}
+
+@media only screen and (max-width: 400px) {
+    dt {
+        width: auto;
+        text-align: left;
+        float: none;
+    }
+    
+    dd, dd + dd {
+        margin-left: 1em;
+        float: none;
+    }
 }
 
 #color-sample-text-color-main .color-sample {
