@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
+{% assign cache_token = "now" | date: "%s" %}
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -15,8 +16,8 @@
     {% endif %}
     
     <title>{{ page.title | xml_escape }}</title>
-    <link rel="stylesheet" href="{{ site.url }}/css/syntax.css">
-    <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/syntax.css?v={{ cache_token }}">
+    <link rel="stylesheet" href="{{ site.url }}/css/main.css?v={{ cache_token }}">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.url }}/feed.xml">
     <link rel="icon" href="{{ site.url }}/assets/favicon-192.png">
     <link rel="apple-touch-icon" href="{{ site.url }}/assets/apple-touch-icon.png">
