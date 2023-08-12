@@ -8,7 +8,7 @@ body_class: home
 <section>
     <h2>Latest Post</h2>
     <article class="latest">
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <h3><a href="{{ post.url }}">{{ post.title | xml_escape }}</a></h3>
         <p class="excerpt">
         {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
         <a href="{{ post.url }}" class="more">Read more</a>
@@ -17,22 +17,22 @@ body_class: home
 </section>
 {% endfor %}
 
-<!-- section>
-    <h2>Links</h2>
-</section -->
+<section class="archive">
+{% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% for year in posts_by_year %}
+<h2>{{ year.name }}</h2>
+<ol>
+    {% for post in year.items %}
+    <li>
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date_to_string }}
+        </time>
+        <a href="{{ post.url }}">{{ post.title | xml_escape }}</a>
+    </li>
+    {% endfor %}
+</ol>
+{% endfor %}
 
-<section>
-    <h2>Archive</h2>
-    <nav class="clearfix archive">
-        <ul>
-            {% for post in site.posts %}
-            <li>
-                <time datetime="{{ post.date | date_to_xmlschema }}">
-                    {{ post.date | date_to_string }}
-                </time>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-            </li>
-            {% endfor %}
-        </ul>
-    </nav>
+<h2 lang="fr">fin</h2>
+
 </section>

@@ -102,8 +102,6 @@ h1 a:link, h1 a:visited, header h1 a:hover, header h1 a:active {
 }
 
 a { /* inspired by inessential.com */
-    -webkit-transition: all 0.2s ease-in-out;
-    -moz-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
 }
 
@@ -118,11 +116,21 @@ body {
     background-color: var(--background-color-main);
 }
 
-h1, h2, h3, header .caption, article .figure, time {
+h1, h2, h3, header .caption, article .figure {
     font-family: var(--font-face-secondary);
     font-weight: 300;
     letter-spacing: -0.075em;
     margin-bottom: 0.5em;
+    text-rendering: optimizelegibility;
+}
+
+time {
+    color: var(--text-color-secondary);
+    font-family: var(--font-face-secondary);
+    font-weight: 500;
+    font-size: 12pt;
+    letter-spacing: -1.5pt;
+    text-transform: uppercase;
     text-rendering: optimizelegibility;
 }
 
@@ -137,9 +145,7 @@ h1.with-time {
 
 h1.with-time + time {
     display: block;
-    color: var(--text-color-secondary);
-    font-size: 80%;
-    margin-bottom: 1.25em; /* match the 0.5em margin of h1 without time */
+    margin-bottom: 1em; /* match the 0.5em margin of h1 without time */
 }
 
 h1.with-time + time a:any-link {
@@ -312,24 +318,37 @@ sup a {
     font-size: 9pt;
 }
 
-nav ul, nav li {
+nav ul, section.archive ol {
     list-style: none;
+    padding: 0;
 }
 
-nav.archive li {
-    clear: both;
-    padding-left: 8em;
+/* fin */
+section.archive h2:last-child {
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+.archive li {
+    margin: 14pt 0;
+    padding-left: 90pt;
+    padding-right: 8pt; /* visually balance the perceived indent of <time>s */
+    line-height: 16pt;
     -webkit-hyphens: none;
     hyphens: none;
 }
 
-nav.archive time {
-    display: block;
-    width: 7em;
-    margin: 0 0 0 -8em;
-    float: left;
+.archive time {
+    display: inline-block;
+    width: 67pt;
+    margin-left: -85pt;
+    margin-right: 15pt;
     text-align: right;
-    color: var(--text-color-secondary);
+}
+
+.archive a {
+    -webkit-hyphens: none;
+    hyphens: none;
 }
 
 nav.links ul {
@@ -402,19 +421,21 @@ p.triforce span {
         padding-top: 0.5em;
         padding-bottom: 0.5em;
     }
-    nav.archive li {
-        padding-left: 90px;
-        margin: 0.5em 0;
+    
+    time {
+        font-size: 11pt;
+        letter-spacing: -1.25pt;
     }
-    nav.archive time {
-        margin-top: 1.5px;
-        margin-left: -96px;
-        width: 88px;
-        font-size: 80%;
-        font-style: italic;
+    
+    .archive li {
+        padding-left: 70pt;
+        padding-right: 4pt;
     }
-    nav.archive ul {
-        padding-left: 0;
+    
+    .archive time {
+        width: 65pt;
+        margin-left: -70pt;
+        margin-right: 1pt;
     }
 
     article .figure {
@@ -586,7 +607,6 @@ dl + * {
 
 .instagram-media {
     width:79.375% ! important;
-    width:-webkit-calc(80% - 2px) ! important;
     width:calc(80% - 2px) ! important;
     margin: 1px auto ! important;
 }
