@@ -16,4 +16,4 @@ A gradient is defined over several dimensions (three dimensions of color compone
 [GitHub]: https://github.com/mmertsock/TouchGradientPicker
 [Dayly Calendar]: https://www.esker-apps.com/dayly/
 [Carthage]: https://github.com/Carthage/Carthage
-[Let me know]: https://twitter.com/mmertsock
+[Let me know]: {{ site.mastodon }}
