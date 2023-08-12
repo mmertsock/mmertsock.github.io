@@ -5,12 +5,12 @@ layout: default
 <article>
 
     {% if page.date %}
-    <h1 class="with-time"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-    <time datetime="{{ page.date | date_to_xmlschema }}">
-        {{ page.date | date_to_string }}
+    <h1 class="with-time">{{ page.title | xml_escape }}</h1>
+    <time class="permalink" datetime="{{ page.date | date_to_xmlschema }}">
+        <a href="{{ page.url }}" title="Permalink to {{ page.title | xml_escape }}">{{ page.date | date_to_string }}</a>
     </time>
     {% else %}
-    <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    <h1>{{ page.title | xml_escape }}</h1>
     {% endif %}
 
     {{ content }}

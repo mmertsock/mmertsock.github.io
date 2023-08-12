@@ -142,6 +142,10 @@ h1.with-time + time {
     margin-bottom: 1.25em; /* match the 0.5em margin of h1 without time */
 }
 
+h1.with-time + time a:any-link {
+    color: var(--text-color-secondary);
+}
+
 p, blockquote, li, dt, dd, summary, details footer {
     font: 15pt/22pt var(--font-face-main);
     -webkit-hyphens: auto;
