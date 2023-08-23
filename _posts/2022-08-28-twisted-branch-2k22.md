@@ -53,7 +53,7 @@ Overall, the idea was to eliminate as much guesswork and unnecessary decisions d
 
 ## Trust
 
-This year, and this race, after years of absence and fearing failure, was an exercise in trust. Learning to trust friends, that they really are up for spending long days doing silly things, and that it’s ok to ask for help. Even simple things like asking for a ride.
+This year, and this race, after years of absence and fearing failure, was an exercise in trust. Learning to trust friends, that they really are up for spending long days doing silly things, and that it’s ok to ask for help. Even simple things like asking for a ride (thanks Laura!).
 
 In past years, I got through this race with luck and the brute force of youth. This year, I made a bet on experience and scientific method to maximize what’s left of any talent I had and avoid as many mistakes as possible. Methodically building fitness and refining strategy, and during the race trusting that that work would carry me through to the end.
 
