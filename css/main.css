@@ -154,19 +154,16 @@ h1.with-time + time a:any-link {
 
 p, blockquote, li, dt, dd, summary, details footer {
     font: 15pt/22pt var(--font-face-main);
-    -webkit-hyphens: auto;
     hyphens: auto;
 }
 
 code, kbd, pre, samp {
     font-family: var(--font-face-mono);
     font-size: 11pt;
-    -webkit-hyphens: none;
     hyphens: none;
 }
 
-.nohyphen {
-    -webkit-hyphens: none;
+.nohyphen, body.nohyphen p, body.nohyphen blockquote, body.nohyphen li, body.nohyphen dt, body.nohyphen dd, body.nohyphen summary {
     hyphens: none;
 }
 
@@ -457,6 +454,22 @@ p.triforce span {
 .editorial-note::before {
     content: "❖ ";
     font-style: normal;
+}
+
+.aside {
+    width: 80%;
+    margin-left: auto;
+    text-align: right;
+    font: 13pt/19pt var(--font-face-main);
+    font-style: italic;
+    color: var(--text-color-secondary);
+    hyphens: none;
+}
+
+@media only screen and (max-width: 400px) {
+    .aside {
+        width: 90%;
+    }
 }
 
 blockquote cite {
