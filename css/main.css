@@ -206,6 +206,15 @@ header h1 {
     letter-spacing: 1pt;
 }
 
+header h1 span {
+    display: inline-block;
+    width: 0.7em;
+    text-align: center;
+    color: var(--text-color-secondary);
+}
+/* header h1 span.r-punct-mid { text-align: right; }
+header h1 span.r-punct-end { text-align: left; } */
+
 h1 a {
     text-decoration: none;
 }
