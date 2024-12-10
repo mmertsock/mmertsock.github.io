@@ -465,18 +465,21 @@ p.triforce span {
     font-style: normal;
 }
 
-.aside {
+aside {
     width: 80%;
     margin-left: auto;
     text-align: right;
-    font: 13pt/19pt var(--font-face-main);
-    font-style: italic;
     color: var(--text-color-secondary);
     hyphens: none;
 }
 
+aside, aside p {
+    font: 13pt/19pt var(--font-face-main);
+    font-style: italic;
+}
+
 @media only screen and (max-width: 400px) {
-    .aside {
+    aside {
         width: 90%;
     }
 }

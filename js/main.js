@@ -59,7 +59,7 @@ class RotatingHeader {
 		this.separators[b] = temp;
 	}
 }
-RotatingHeader.shared = new RotatingHeader(document.querySelector("header h1"), [6400, 4800, 3600], ["|", "/", ":", "&", ",.", ";", "×", "+", "•", "#", "*", "±", "≟", "∩", "∻", "∫", "∀", "↑", "()", "[]", "{}", "<>"]);
+RotatingHeader.shared = new RotatingHeader(document.querySelector("header h1"), [6400, 4800, 3600], ["|", "/", ":", "&", ",.", ";", "×", "+", "•", "#", "*", "±", "≟", "∩", "∻", "∫", "∀", "↑", "…", "()", "[]", "{}", "<>"]);
 
 // document.querySelectorAll("article h2[id], article h3[id]").forEach(elem => {
 // 	if (elem.id.trim().length == 0) { return; }
