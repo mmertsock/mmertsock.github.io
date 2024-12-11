@@ -374,15 +374,6 @@ nav.links li + li:before {
     display: block;
     text-align: center;
 }
-.cc-notice a {
-    display: inline-block;
-    background-image: url(../assets/cc.svg);
-    background-repeat: no-repeat;
-    background-position: left center;
-    background-size: 1em 1em;
-    padding-left: 1.5em;
-    min-height: 1em;
-}
 
 article .figure {
     max-width: 570px;
