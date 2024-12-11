@@ -38,25 +38,15 @@ class RotatingHeader {
 	}
 	
 	randomize() {
-		if (this.separators.length < 2) { return; }
-		let last = this.separators[this.separators.length - 1];
-		let currentIndex = this.separators.length;
-		while (currentIndex > 0) {
-			let randomIndex = Math.floor(Math.random() * currentIndex);
-			currentIndex -= 1;
-			this.swap(currentIndex, randomIndex);
+		let randomized = [];
+		while (this.separators.length > 0) {
+			// Don't repeat: first elem of new list should != last elem of old list.
+			let maxIndex = (randomized.length == 0) ? (this.separators.length - 1) : this.separators.length;
+			let index = Math.floor(Math.random() * maxIndex);
+			let item = this.separators.splice(index, 1)[0];
+			randomized.push(item);
 		}
-		// Don't repeat
-		if (this.separators[0] == last) {
-			let randomIndex = 1 + Math.floor(Math.random() * (this.separators.length - 1));
-			this.swap(0, randomIndex);
-		}
-	}
-	
-	swap(a, b) {
-		let temp = this.separators[a];
-		this.separators[a] = this.separators[b];
-		this.separators[b] = temp;
+		this.separators = randomized;
 	}
 }
 RotatingHeader.shared = new RotatingHeader(document.querySelector("header h1"), [6400, 4800, 3600], ["|", "/", ":", "&", ",.", ";", "×", "+", "•", "#", "*", "±", "≟", "∩", "∻", "∫", "∀", "↑", "…", "()", "[]", "{}", "<>"]);
