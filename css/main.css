@@ -79,10 +79,10 @@ body.dark-mode {
     --text-color-main:          light-dark(hsl(185, 10%, 24%),  hsl(133, 15%, 90%));
     --text-color-secondary:     light-dark(hsl(173,  7%, 54%),  hsl(143,  8%, 64%));
     --text-color-listing:       light-dark(hsl(165, 15%, 20%),  hsl(133, 70%, 88%));
-    --link-color-main:          light-dark(hsl(202, 85%, 29%),  hsl(133, 45%, 64%));
-    --link-color-main-active:   light-dark(hsl(208, 100%, 52%), hsl(133, 84%, 80%));
+    --link-color-main:          light-dark(hsl(143, 38%, 34%),  hsl(133, 45%, 64%));
+    --link-color-main-active:   light-dark(hsl(143, 48%, 48%),  hsl(133, 84%, 80%));
     --link-color-secondary: var(--text-color-secondary);
-    --link-color-secondary-active: light-dark(hsl(208, 50%, 52%), hsl(208, 45%, 81%));
+    --link-color-secondary-active: light-dark(hsl(173, 37%, 54%), hsl(143, 38%, 74%));
 }
 
 .clearfix:before,
@@ -550,25 +550,6 @@ dd:last-child {
 dl + * {
     clear: both;
 }
-.color-samples dt, .color-samples dd {
-    line-height: 24pt;
-    padding-top: 2pt;
-}
-.color-sample {
-    display: inline-block;
-    width: 37pt;
-    height: 22pt;
-    padding: 0;
-    margin: 0 1em 0 0;
-}
-.color-sample.bordered {
-    width: 36pt;
-    height: 20pt;
-    border: 1pt solid #ccc;
-}
-.color-value {
-    color: var(--text-color-secondary);
-}
 
 @media only screen and (max-width: 400px) {
     dt {
@@ -581,34 +562,6 @@ dl + * {
         margin-left: 1em;
         float: none;
     }
-}
-
-#color-sample-text-color-main .color-sample {
-    background-color: var(--text-color-main);
-}
-
-#color-sample-link-color-main .color-sample {
-    background-color: var(--link-color-main);
-}
-
-#color-sample-link-color-main-active .color-sample {
-    background-color: var(--link-color-main-active);
-}
-
-#color-sample-text-color-secondary .color-sample {
-    background-color: var(--text-color-secondary);
-}
-
-#color-sample-link-color-secondary-active .color-sample {
-    background-color: var(--link-color-secondary-active);
-}
-
-#color-sample-background-color-main .color-sample {
-    background-color: var(--background-color-main);
-}
-
-#color-sample-background-color-header .color-sample {
-    background-color: var(--background-color-header);
 }
 
 #font-sample-font-face-header {
