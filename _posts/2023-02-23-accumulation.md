@@ -7,6 +7,7 @@ In which I find an excuse to use the word "unmoored".
 
 <style type="text/css">
 	a.big-shiny-button {
+		color-scheme: light;
 		display: inline-block;
 		border-width: 16px;
 		border-radius: 12px;

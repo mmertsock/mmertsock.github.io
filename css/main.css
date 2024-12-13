@@ -54,7 +54,14 @@
 }
 
 :root {
-    /* TODO color-scheme: light dark; */
+    color-scheme: light dark;
+}
+
+body.dark-mode {
+    color-scheme: dark;
+}
+
+:root {
     --font-face-header: "Ovo", "Palatino", "Georgia", sans-serif;
     --font-face-header-forced: "Ovo";
     --font-face-secondary: "Quicksand", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica-Light", "Helvetica Neue", Helvetica, Calibri, Arial, sans-serif;
@@ -63,18 +70,19 @@
     --font-face-main-forced: "Crimson Text";
     --font-face-mono: "Source Code Pro", "Menlo", "Consolas", monospace;
     --font-face-mono-forced: "Source Code Pro";
-    --background-color-main: hsl(165, 33%, 98%);
-    --background-color-subtle: hsl(185, 10%, 97%);
-    --background-color-inverse: hsl(185, 10%, 12%);
-    --background-color-header: hsl(133, 15%, 82%);
-    --text-color-main: hsl(185, 10%, 24%);
-    --text-color-inverse: hsl(133, 15%, 82%);
-    --text-color-secondary: hsl(173, 7%, 54%);
-    --text-color-warn: hsl(28, 100%, 63%);
-    --link-color-main: hsl(202, 85%, 29%);
-    --link-color-main-active: hsl(208, 100%, 52%);
+    --background-color-main:    light-dark(hsl(165, 33%, 98%),  hsl(185, 10%, 12%));
+    --background-color-subtle:  light-dark(hsl(185, 10%, 97%),  hsl(165, 10%, 9%));
+    --background-color-header:  light-dark(hsl(133, 15%, 82%),  hsl(148, 10%, 24%));
+    --background-color-listing: light-dark(hsl(165, 10%, 94%),  hsl(185,  5%, 14%));
+    --border-color-listing:     light-dark(hsl(165, 10%, 80%),  hsl(165, 10%, 20%));
+    --border-color-warn:        light-dark(hsl(28, 100%, 63%),  hsl(20,  80%, 53%));
+    --text-color-main:          light-dark(hsl(185, 10%, 24%),  hsl(133, 15%, 90%));
+    --text-color-secondary:     light-dark(hsl(173,  7%, 54%),  hsl(143,  8%, 64%));
+    --text-color-listing:       light-dark(hsl(165, 15%, 20%),  hsl(133, 70%, 88%));
+    --link-color-main:          light-dark(hsl(202, 85%, 29%),  hsl(133, 45%, 64%));
+    --link-color-main-active:   light-dark(hsl(208, 100%, 52%), hsl(133, 84%, 80%));
     --link-color-secondary: var(--text-color-secondary);
-    --link-color-secondary-active: hsl(208, 50%, 52%);
+    --link-color-secondary-active: light-dark(hsl(208, 50%, 52%), hsl(208, 45%, 81%));
 }
 
 .clearfix:before,
@@ -169,8 +177,9 @@ code, kbd, pre, samp {
 
 pre {
     line-height: 17pt;
-    background-color: #f0f0f0;
-    border-color: #cccccc;
+    background-color: var(--background-color-listing);
+    color: var(--text-color-listing);
+    border-color: var(--border-color-listing);
     border-style: solid;
     border-width: 0 0 0 6px;
     border-top-right-radius: 5px;
@@ -259,6 +268,7 @@ body > footer p {
 
 .latest h3 {
     margin-bottom: 0.3em;
+    font-weight: 400;
 }
 
 .latest h3 a {
@@ -489,7 +499,7 @@ blockquote.warn {
     margin-left: 0.25em;
     margin-right: 0.5em;
     padding: 0.25em 0.25em 0.25em 0.5em;
-    border: 1px solid var(--text-color-warn);
+    border: 1px solid var(--border-color-warn);
     border-left-width: 0.25em;
     border-radius: 0.5em;
     font: 13pt/19pt var(--font-face-secondary);
