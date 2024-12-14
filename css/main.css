@@ -279,6 +279,13 @@ body > footer p {
     margin-top: 0;
 }
 
+.latest .excerpt a:not(.more):link, .latest .excerpt a:not(.more):visited {
+    color: var(--link-color-secondary);
+}
+.latest .excerpt a:not(.more):hover, .latest .excerpt a:not(.more):active {
+    color: var(--link-color-secondary-active);
+}
+
 .more {
     font-style: italic;
 }
