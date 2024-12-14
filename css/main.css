@@ -347,8 +347,8 @@ section.archive h2:last-child {
 
 .archive li {
     margin: 14pt 0;
-    padding-left: 90pt;
-    padding-right: 8pt; /* visually balance the perceived indent of <time>s */
+    padding-left: 70pt;
+    padding-right: 15pt; /* visually balance the perceived indent of <time>s */
     line-height: 16pt;
     -webkit-hyphens: none;
     hyphens: none;
@@ -356,8 +356,8 @@ section.archive h2:last-child {
 
 .archive time {
     display: inline-block;
-    width: 67pt;
-    margin-left: -85pt;
+    width: 47pt;
+    margin-left: -65pt;
     margin-right: 15pt;
     text-align: right;
 }
@@ -438,13 +438,13 @@ p.triforce span {
     }
     
     .archive li {
-        padding-left: 70pt;
+        padding-left: 45pt;
         padding-right: 4pt;
     }
     
     .archive time {
-        width: 65pt;
-        margin-left: -70pt;
+        width: 40pt;
+        margin-left: -45pt;
         margin-right: 1pt;
     }
 
