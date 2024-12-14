@@ -30,10 +30,10 @@ So far, the first half hour felt like a rather solo effort, focused on the trail
 
 Ron (one of the [Ascend Collective][] photographers documenting the day) was camped out at the overlook, waiting for what promised to be a spectacular sunrise backdrop. As expected, we passed the overlook before the sun was up, while discussing whether we were going out too fast. The consensus was no, we were banking miles in cool weather on the "easy" part of the course. Back down into the valley, and I started to feel out my downhill strategy for the day. The extra momentum as we descended switchbacks on the dark north side of the hill led to a couple of my few missed turns; thankfully there were several of us navigating together to catch the mistakes immediately.
 
-<div class="figure">
+<figure>
     <a href="{{ site.url }}/assets/tb100k/sunrise.jpg"><img src="{{ site.url }}/assets/tb100k/thumbs/sunrise.jpg"></a>
-    Sunrise over the Bristol hills. The trail would pass through these hills, all the way to the horizon. Photo by <a href="http://www.theascendcollective.com/">The Ascend Collective</a>.
-</div>
+    <figcaption>Sunrise over the Bristol hills. The trail would pass through these hills, all the way to the horizon. Photo by <a href="http://www.theascendcollective.com/">The Ascend Collective</a>.</figcaption>
+</figure>
 
 ## AS 1 to 2 (Naples Creek), ~6.5 mi/12.5 total: making some choices
 
@@ -53,10 +53,10 @@ I tried to be quick at the aid station, filling bottles, stocking up on food, an
 
 The climb went pretty smoothly; I hadn't seen the lower portion in a couple of years, and it was easier than I remembered. The upper portion can be a big mental challenge, as it goes on and on with a lot of false hope of summiting; having climbed this section (and some of the earlier hills too) last winter made this feel a little easier. I got to the top feeling pretty strong and had a bit of easy forest road to shake it off. But this section was far from over, waiting ahead was 3.5 miles of very technical trail with a few hundred feet of climbing that goes unnoticed while scrambling through rough footing. But the surface isn't the only thing distracting from the climb: High Tor is a very special area with beautiful scenery, and this part of the trail traverses lush carpeted forest overlooking Conklin Gully (the gully leads to a 120 ft waterfall, just out of sight of this race course).
 
-<div class="figure">
+<figure>
     <a href="{{ site.url }}/assets/tb100k/conklin.jpg"><img src="{{ site.url }}/assets/tb100k/thumbs/conklin.jpg"></a>
-    Conklin Gully. Photo by <a href="http://www.theascendcollective.com/">The Ascend Collective</a>.
-</div>
+    <figcaption>Conklin Gully. Photo by <a href="http://www.theascendcollective.com/">The Ascend Collective</a>.</figcaption>
+</figure>
 
 All this added up to a long time alone in the forest, noticing some real fatigue for the first time as the big hill and now the steady technical climb took their toll. This slow-going remote trail usually offers a lot of opportunity for thinking, but today I just focused on reaching the upcoming aid station and keeping a rhythm as best as possible. Eventually, I ducked out of the woods onto a back road and the Brink Hill aid station (no crew access).
 
@@ -66,10 +66,10 @@ After Brink Hill is about a mile of paved and dirt roads, and a few hundred feet
 
 We finally got a break from the climbing and were rewarded with some incredible views to the west and southeast. Mike (the other Ascend photographer) was at one of these overlooks capturing one of the iconic scenes of the race. The break was soon over, though. After entering the woods, the course returned to increasingly technical singletrack, and then increasingly steep downhill work.
 
-<div class="figure">
+<figure>
     <a href="{{ site.url }}/assets/tb100k/overlook.jpg"><img src="{{ site.url }}/assets/tb100k/thumbs/overlook.jpg"></a>
-    The Italy Valley overlook. Photo by <a href="http://www.theascendcollective.com/">The Ascend Collective</a>.
-</div>
+    <figcaption>The Italy Valley overlook. Photo by <a href="http://www.theascendcollective.com/">The Ascend Collective</a>.</figcaption>
+</figure>
 
 Thankfully, some of the massive amounts of fallen trees and torn trails were cleaned up, the many turns were well marked, and having previewed this recently I was sufficiently familiar with the trail to just focus on moving forward. It was a tough descent though, 850 ft down in just over a mile, on loose shale and washouts (we would become intimately acquainted with rocks and ruts in this race), switchbacks, and unrelenting steepness (much of it 30% average grade); it required intense focus to go down this smoothly. Finally the woods ejected us into a steamy valley meadow just outside of Italy Valley aid station.
 
@@ -89,10 +89,10 @@ Italy Turnpike was all orange, an unofficial [\#TrailsRoc][TrailsRoc] aid statio
 
 After more than 15 minutes at the aid station, I ventured back out to the trail and got back to work. Hydration and staying cool was now the primary focus. I saw Ron taking photos again. Each time he saw me and asked how I was doing, the answer grew less positive. It was pretty bleak this time.
 
-<div class="figure">
+<figure>
     <a href="{{ site.url }}/assets/tb100k/turnpike.jpg"><img src="{{ site.url }}/assets/tb100k/thumbs/turnpike.jpg"></a>
-    Feeling uneasy after Italy Turnpike. Photo by <a href="http://www.theascendcollective.com/">The Ascend Collective</a>.
-</div>
+    <figcaption>Feeling uneasy after Italy Turnpike. Photo by <a href="http://www.theascendcollective.com/">The Ascend Collective</a>.</figcaption>
+</figure>
 
 I spent the next hour gradually recovering, finding my strength again and passing a few people. But there was only so much recovery possible 30 miles into an ultra. I was clearly not 100% lucid, as I was briefly convinced we had already passed the next aid station after less than two miles, and then thought it was less than a mile away, but there were still several miles ago.
 
@@ -102,10 +102,10 @@ We wound through fields (including a [direct line][corn] across a full-grown cor
 
 Patch Road had a campground atmosphere, with rustic seating in a forest clearing and guitars twanging on the porch. Wanting to keep the positive feeling going, I was careful to avoid the urge to linger, and stayed only long enough to cool off a bit and refuel. Back to the trail, and the rolling hills gave way to some short but steep climbs and descents. The next aid station was not far away, but the trail continued to wear on us.
 
-<div class="figure">
+<figure>
     <a href="{{ site.url }}/assets/tb100k/patch.jpg"><img src="{{ site.url }}/assets/tb100k/thumbs/patch.jpg"></a>
-    We ran on a whole lot of rocky, washed out stream beds and abandoned roads. Photo by <a href="http://www.theascendcollective.com/">The Ascend Collective</a>.
-</div>
+    <figcaption>We ran on a whole lot of rocky, washed out stream beds and abandoned roads. Photo by <a href="http://www.theascendcollective.com/">The Ascend Collective</a>.</figcaption>
+</figure>
 
 Coming down a steep hill about halfway through this stretch, I suddenly felt some pain around the knee cap, like a classic runner's knee. This came out of nowhere: I had felt fine all day and hadn't had any knee problems in years. Descents were painful, flats and climbs were fine. Keeping moving, I attempted various tactics for the downhills. They all hurt the same though, so I resigned to just running down the hills and getting it over with sooner.
 
@@ -148,10 +148,10 @@ These five miles up to the last aid station were a true ultrarunning experience,
 
 Through a vineyard (a reminder after hours in the woods that we're in the Finger Lakes) and we were at the last aid station. I downed some cola and grabbed a couple of caffeinated gels for a final energy boost, and quickly addressed a hot spot. I was only there a few minutes, but suddenly the legs were very stiff. The hard work of the last several miles was catching up, and I think my body was trying to make me stop. It was time to face the final climb though, and I shuffled off to the road crossing, shaking off the stiffness and pain.
 
-<div class="figure">
+<figure>
     <a href="{{ site.url }}/assets/tb100k/urbana.jpg"><img src="{{ site.url }}/assets/tb100k/thumbs/urbana.jpg"></a>
-    Coming into Urbana aid station.
-</div>
+    <figcaption>Coming into Urbana aid station.</figcaption>
+</figure>
 
 Mount Washington loomed ahead. I had previewed this hill and knew that while it was long and steep, it at least was not technical and I had already worked out the navigational mistakes. Into power hiking mode, and up 813 ft of switchbacks over one mile. Stopping was not an option: this last hill would probably break anyone who stopped. Knowing the route allowed me to just go into that mental cave and focus on moving the muscles. I visualized climbing it the previous week on fresh legs and followed that vision as best as possible. Katie had left the aid station a bit ahead of me, and she put in a very strong climb, but with much effort I caught back up somewhere on top of the hill.
 
@@ -161,10 +161,10 @@ We dragged ourselves along the ridge, trying to encourage and push each other. I
 
 I told Katie to lead, down into and out of a gully. I had imagined running this last little 100 ft climb (because why not, it was the last climb), but it just did not happen, and she pulled ahead. Finally, there was less than a mile left, switchbacks down the remaining 500 ft of the hill. I was so glad to hear and then see the traffic of the last road crossing, and the crowd at the finish line. I slid down the bank to the road, and as the sun set I was overwhelmed with joy to cross the finish line. After nearly fifteen hours, it was over.
 
-<div class="figure">
+<figure>
     <a href="{{ site.url }}/assets/tb100k/finish.jpg"><img src="{{ site.url }}/assets/tb100k/thumbs/finish.jpg"></a>
-    Finished! Photo by <a href="http://www.theascendcollective.com/">The Ascend Collective</a>.
-</div>
+    <figcaption>Finished! Photo by <a href="http://www.theascendcollective.com/">The Ascend Collective</a>.</figcaption>
+</figure>
 
 <h2 id="final-thoughts">Final thoughts</h2>
 
@@ -189,9 +189,9 @@ The volunteers (almost as many volunteers as racers) and aid stations were all e
 - Calories: a roughly even mix of tailwind, gels, and real food. I used Picky bars and Clif purées early in the race, but with the mild dehydration and the hint of poor digestion, I switched to the Munk Packs offered at the aid stations as they were much easer to suck down and digest.
 - GPS: I think [iSmoothRun][] on iPhone (thrown in back of the vest in a Loksak), paired with an Apple Watch, is as good as any GPS watch these days. I get 10 hours or more of battery life, and a phone case with builtin battery more than doubles that. I also loaded the official [Finger Lakes Trail maps][FLT] on the phone, helpful for the preview runs and figuring out that wrong turn at mile 48.
 
-<div class="figure">
+<figure>
     <a href="{{ site.url }}/assets/tb100k/gear.jpg"><img src="{{ site.url }}/assets/tb100k/thumbs/gear.jpg"></a>
-</div>
+</figure>
 
 [TB100K]: https://www.twistedbranchtrail.com
 [MTD]: https://www.strava.com/activities/301354951

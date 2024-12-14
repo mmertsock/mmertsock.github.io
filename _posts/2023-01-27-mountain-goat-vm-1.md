@@ -5,9 +5,9 @@ layout: post
 
 Follow along as we build a fake computer architecture and assembly language from scratch, with a virtual machine/interpreter written in JavaScript. Why? I saw a fun YouTube video that posed the question: ["Can you fit a whole game into a QR code?"][YouTube]. Long story short, this intersected with my hobby of [dabbling with JavaScript games and game engines][eskergames] and some recent reading about 16-bit era games being written in assembly code, forming this Venn diagram in my mind:
 
-<div class="figure">
+<figure>
 	<a href="{{ site.url }}/assets/posts/mountain-goat-venn-2x.png"><img src="{{ site.url }}/assets/posts/mountain-goat-venn-2x.png" srcset="{{ site.url }}/assets/posts/mountain-goat-venn.png 1x, {{ site.url }}/assets/posts/mountain-goat-venn-2x.png 2x" alt="Venn diagram, three circles labeled (1) 'Cool idea: embed a game in a QR code'. (2) 'Hobby: tinkering with with JS games and game engines'. (3) 'Reading about: 16-bit era games written in assembly'. Intersection labeled 'Build my own assembly language, computer architecture, virtual machine, in JS, from scratch'"></a>
-</div>
+</figure>
 
 Basically, I've always been interested in game development, but I always stall working on actual games and become more invested in tinkering with the systems and frameworks that games are built with.
 

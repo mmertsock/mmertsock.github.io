@@ -1,7 +1,6 @@
 ---
 title: Colophon
 layout: post
-no_discuss: true
 ---
 
 ## Fonts

@@ -124,7 +124,7 @@ body {
     background-color: var(--background-color-main);
 }
 
-h1, h2, h3, header .caption, article .figure {
+h1, h2, h3, header .caption, article figure {
     font-family: var(--font-face-secondary);
     font-weight: 300;
     letter-spacing: -0.075em;
@@ -385,21 +385,24 @@ nav.links li + li:before {
     text-align: center;
 }
 
-article .figure {
+article figure {
     max-width: 570px;
     margin: 1em auto;
-    font-size: 85%;
-    font-style: italic;
     text-align: center;
 }
 
-article .figure > a:first-child {
+article figure figcaption {
+    font-size: 90%;
+    font-style: italic;
+}
+
+article figure > a:first-child {
     display: block;
     text-align: center;
     text-decoration: none;
 }
 
-article .figure img {
+article figure img {
     border-style: none;
     max-width: 570px;
 }
@@ -445,11 +448,11 @@ p.triforce span {
         margin-right: 1pt;
     }
 
-    article .figure {
+    article figure {
         max-width: 95%;
     }
 
-    article .figure img {
+    article figure img {
         max-width: 100%;
     }
 }
@@ -512,20 +515,6 @@ blockquote.warn {
     font-size: 13pt;
     line-height: 18pt;
     margin-top: 2em;
-}
-
-.discuss {
-    margin-top: 2.5em;
-    font-family: var(--font-face-secondary);
-    font-weight: 400;
-    font-size: 12pt;
-    letter-spacing: -1pt;
-}
-
-.discuss iframe {
-    display: inline-block;
-    margin-bottom: -5px;
-    margin-left: 0.25em;
 }
 
 dt {

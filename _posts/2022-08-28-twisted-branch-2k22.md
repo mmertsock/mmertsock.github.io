@@ -3,7 +3,7 @@ title: Twisted Branch 2022
 layout: post
 ---
 
-<div class="figure"><img src="{{ site.url }}/assets/posts/twisted-coffee.jpg" alt="A Twisted Branch finisher's mug full of coffee, my race bib, and a phone showing this blog post." style="max-width: calc(min(80%, 400px));"></div>
+<figure><img src="{{ site.url }}/assets/posts/twisted-coffee.jpg" alt="A Twisted Branch finisher's mug full of coffee, my race bib, and a phone showing this blog post including a rendering of this same image." style="max-width: calc(min(80%, 400px));"></figure>
 
 So I ran [Twisted Branch 100K][] again. [Previously][] had two finishes, one DNS, and a couple years of just hanging out around the event, pacing, etc. First time doing any sort of long race since 2018, and first time starting this race in six years. Signed up in January on a bit of a whim, wasn’t sure if I could survive the race anymore, let alone match what was very plausibly a long-past period of peak performance.
 

@@ -17,10 +17,10 @@ Cool summit and a cute little fire tower with incredible views. Thought it was i
 
 Hopped back down and finished the hike at dusk, making a game of getting back to the trailhead before headlamps were required (which is getting harder every year as our night vision weakens). Reminisced in the near-dark about various weird wildlife sounds and smelling bears during previous bushwhacking adventures.
 
-<div class="figure">
+<figure>
 <a href="{{ site.url }}/assets/posts/snowy-dusk.jpg"><img src="{{ site.url }}/assets/posts/snowy-dusk.jpg"></a>
-Checking out the view on Snowy at the old observer cabin clearing as dusk approaches
-</div>
+<figcaption>Checking out the view on Snowy at the old observer cabin clearing as dusk approaches</figcaption>
+</figure>
 
 ## Lewey Mountain, Saturday morning
 
@@ -30,10 +30,10 @@ We found the height of land marking Lewey’s east ridge and stepped off the tra
 
 We were nicely warmed up now with the morning sun at our backs all along this westward trajectory, and now overhead in clear blue skies. We ate some sour patch kids, drank some water, and shed some layers. Next step was to set a course for the descent. We checked the map and compass and calibrated our shadows so we could navigate by the sun.
 
-<div class="figure">
+<figure>
 <a href="https://youtu.be/XPplBu2fkGE"><img src="{{ site.url }}/assets/posts/lewey-yt-thumb.jpg"></a>
-Hey I put a <a href="https://youtu.be/XPplBu2fkGE">video</a> on YouTube
-</div>
+<figcaption>Hey I put a <a href="https://youtu.be/XPplBu2fkGE">video</a> on YouTube</figcaption>
+</figure>
 
 The original descent plan was to follow the west ridge; the cirque between the ridges was also an option but I had wondered if that would be wetter due to mud season. But now it seemed pretty clear that mud would not be a concern today. So as we angled toward the west ridge and it was evident it would be a longish walk through some pretty thick trees, we allowed the slope to push us south toward the cirque. After riding out a ledge that was too tall to hop, we continued downward and very soon were in more open woods. The west and east ridges were visible above to either side, and also the summit behind us. Hard to ask for easier navigation.
 

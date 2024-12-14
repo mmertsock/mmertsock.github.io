@@ -17,10 +17,10 @@ Anyway, the north trail was a treat. Always interesting to see how different the
 
 On the way to Hopkins, the trail goes over a bump on the shoulder of Green through a rather shadowy stretch of spruces. To add to the spooky mood, we found lots of ghost pipes growing at the edges of the trail. So I named this Ghost Pipe Mountain.
 
-<div class="figure">
+<figure>
 <a href="https://youtu.be/61-o2YaECno"><img src="{{ site.url }}/assets/posts/giant-2021-yt-thumb.jpg"></a>
-Here's a <a href="https://youtu.be/61-o2YaECno">video</a> on YouTube
-</div>
+<figcaption>Here's a <a href="https://youtu.be/61-o2YaECno">video</a> on YouTube</figcaption>
+</figure>
 
 The clouds finally broke just in time for our arrival at the Hopkins summit, and we savored dry rock and spectacular views. It's one of our favorite summit views. Then time to finish up, we were ready for snacks so we hurried down into town. We had started the day with a stop at Old Mountain to fuel up before the hike, and now were finishing it there, reporting the day's exploits to Nick—the same barista who saw us off in the morning.
 
