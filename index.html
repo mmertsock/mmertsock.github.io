@@ -24,8 +24,8 @@ body_class: home
 <ol>
     {% for post in year.items %}
     <li>
-        <time datetime="{{ post.date | date_to_xmlschema }}">
-            {{ post.date | date: "%d %b" }}
+        <time datetime="{{ post.date | date_to_xmlschema }}" title="{{ post.date | date_to_string }}">
+            {{ post.date | date: "%e %b" }}
         </time>
         <a href="{{ post.url }}">{{ post.title | xml_escape }}</a>
     </li>
