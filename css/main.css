@@ -345,6 +345,7 @@ sup a {
 
 nav ul, section.archive ol {
     list-style: none;
+    margin: 0;
     padding: 0;
 }
 
@@ -355,14 +356,19 @@ section.archive h2:last-child {
 }
 
 .archive li {
-    margin: 13pt 0;
-    padding-left: 80pt;
-    padding-right: 30pt; /* visually balance the perceived indent of <time>s */
+    margin: 0;
+    /* left pad: hanging indent for titles next to <time>s */
+    /* right pad: visually balance the perceived left margin of <time>s */ 
+    padding: 6pt 30pt 6pt 80pt;
+    border-radius: 4pt;
     line-height: 18pt;
     -webkit-hyphens: none;
     hyphens: none;
     transition: background-color 0.2s ease-in-out;
-    border-radius: 4pt;
+}
+
+.archive li:first-child {
+    padding-top: 4pt;
 }
 
 .archive li:hover {
