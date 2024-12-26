@@ -437,6 +437,7 @@ section.archive h2:last-child {
     color: var(--text-color-secondary);
     font-family: var(--font-face-secondary);
     font-weight: 400;
+    font-synthesis-small-caps: auto;
     font-variant: all-small-caps;
     font-size: 12pt;
     letter-spacing: 3pt;
