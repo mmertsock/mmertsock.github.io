@@ -5,15 +5,15 @@ layout: post
 
 ## Fonts
 
-<dl>
-    <dt>Nameplate</dt>
-    <dd id="font-sample-font-face-header"><span class="description">Ovo</span></dd>
-    <dt>Headings</dt>
-    <dd id="font-sample-font-face-secondary"><span class="description">Quicksand</span></dd>
-    <dt>Body text</dt>
-    <dd id="font-sample-font-face-main"><span class="description">Crimson Text</span></dd>
-    <dt>Code</dt>
-    <dd id="font-sample-font-face-mono"><span class="description">Source Code Pro</span></dd>
+<dl class="soft-table">
+    <dt><span>Nameplate</span></dt>
+    <dd id="font-sample-font-face-header"><a href="https://www.fontsquirrel.com/fonts/ovo">Ovo</a></dd>
+    <dt><span>Headings</span></dt>
+    <dd id="font-sample-font-face-secondary"><a href="https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/">Cooper Hewitt</a></dd>
+    <dt><span>Body text</span></dt>
+    <dd id="font-sample-font-face-main"><a href="https://github.com/skosch/Crimson">Crimson Text</a></dd>
+    <dt><span>Code</span></dt>
+    <dd id="font-sample-font-face-mono"><a href="https://monaspace.githubnext.com">Monaspace Neon</a></dd>
 </dl>
 
 ## Technology
