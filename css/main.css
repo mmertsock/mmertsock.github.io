@@ -477,6 +477,7 @@ article figure {
 article figure figcaption {
     font-size: 90%;
     font-style: italic;
+    text-wrap: balance;
 }
 
 article figure > a:first-child {
@@ -558,6 +559,7 @@ aside {
     text-align: right;
     color: var(--text-color-secondary);
     hyphens: none;
+    text-wrap: balance;
 }
 
 aside, aside p {
