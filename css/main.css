@@ -580,13 +580,12 @@ blockquote cite {
 }
 
 blockquote cite:before {
-    content: "–\2008";
+    content: "―\200a";
 }
 
 blockquote.inline {
     margin-left: 0;
     margin-right: 0;
-    color: var(--text-color-secondary);
 }
 
 blockquote.inline p {
